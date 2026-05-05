@@ -26,6 +26,16 @@ BENCHMARK_QUESTIONS = [
     "How does GPT-4 relate to OpenAI and what companies use it?",
     "What AI research institutions are associated with Stanford University?",
     "Which autonomous vehicle companies have received investment from major tech firms?",
+    "What is the role of Demis Hassabis at Google DeepMind?",
+    "Which institutions or labs has Yoshua Bengio been affiliated with?",
+    "How was Google Brain formed and who were the key people involved?",
+    "What are some notable AI products or models developed by Google?",
+    "What is the relationship between Microsoft and OpenAI?",
+    "Which companies are competitors to OpenAI in the large language model space?",
+    "Who is Yann LeCun and what is his role at Meta?",
+    "What technologies or models are associated with Stability AI?",
+    "Which AI researchers are considered the 'Godfathers of AI'?",
+    "What is the main product or focus of Hugging Face?",
 ]
 
 
