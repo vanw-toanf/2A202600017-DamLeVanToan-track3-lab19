@@ -1,0 +1,146 @@
+{
+  "article": "Palantir",
+  "triples": [
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Peter Thiel",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Stephen Cohen",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Joe Lonsdale",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Alex Karp",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Nathan Gettings",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2003",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Miami, Florida",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Palantir Gotham",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Palantir Foundry",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Palantir Apollo",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Palantir AIP",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Palantir Gotham",
+      "subject_type": "Product",
+      "relation": "USED_BY",
+      "object": "United States Intelligence Community",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Palantir Gotham",
+      "subject_type": "Product",
+      "relation": "USED_BY",
+      "object": "United States Department of Defense",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Morgan Stanley",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Merck KGaA",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Airbus",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Wejo",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Lilium",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "PG&E",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Palantir Technologies Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Fiat Chrysler Automobiles",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1846
+}

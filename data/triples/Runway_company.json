@@ -1,0 +1,132 @@
+{
+  "article": "Runway (company)",
+  "triples": [
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Cristóbal Valenzuela",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Alejandro Matamala",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Anastasis Germanidis",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2018",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "New York City",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "text-to-video models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "video generative AI models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$2 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$8.5 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$35 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$50 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$308 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Nvidia",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Salesforce",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Runway AI, Inc.",
+      "subject_type": "Company",
+      "relation": "CO_RELEASED",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_WITH",
+      "object": "CompVis Group",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_WITH",
+      "object": "LMU Munich",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1697
+}

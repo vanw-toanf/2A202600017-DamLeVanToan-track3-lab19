@@ -1,0 +1,125 @@
+{
+  "article": "Mongols",
+  "triples": [
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Mongolia",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "China",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Buryatia",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Kalmykia",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "DESCENDED_FROM",
+      "object": "Proto-Mongols",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "SPEAKS",
+      "object": "Mongolian language",
+      "object_type": "Language"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "PART_OF",
+      "object": "Mongolic peoples",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Oirats",
+      "subject_type": "Person",
+      "relation": "CLASSIFIED_AS",
+      "object": "subgroup of Mongols",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Buryats",
+      "subject_type": "Person",
+      "relation": "CLASSIFIED_AS",
+      "object": "subgroup of Mongols",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mongol heartland",
+      "subject_type": "Location",
+      "relation": "LOCATED_IN",
+      "object": "Mongols",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "HISTORICALLY_RELATED_TO",
+      "object": "Mongol Empire",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "COMPETES_WITH",
+      "object": "Jurchen-ruled Jin dynasty",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "COMPETES_WITH",
+      "object": "Tatar confederation",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Genghis Khan",
+      "subject_type": "Person",
+      "relation": "RULED",
+      "object": "Mongolic-speaking tribes",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "HISTORICALLY_RELATED_TO",
+      "object": "Khamag Mongols",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "FIRST_APPEARED_IN",
+      "object": "8th century records of Tang China",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Mongols",
+      "subject_type": "Person",
+      "relation": "FIRST_APPEARED_IN",
+      "object": "late 11th century",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1778
+}

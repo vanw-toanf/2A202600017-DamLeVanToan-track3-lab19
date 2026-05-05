@@ -1,0 +1,125 @@
+{
+  "article": "OpenAI",
+  "triples": [
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2015",
+      "object_type": "Year"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Sam Altman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Francisco",
+      "object_type": "Location"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "generative pre-trained transformer",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "DALL-E series",
+      "object_type": "Product"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Sora series",
+      "object_type": "Product"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "ChatGPT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "November 2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "INVESTED_IN",
+      "object": "OpenAI Global, LLC",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "PROVIDES",
+      "object": "Azure cloud computing resources",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "CONDUCTED",
+      "object": "$6.6 billion share sale",
+      "object_type": "Event"
+    },
+    {
+      "subject": "$6.6 billion share sale",
+      "subject_type": "Event",
+      "relation": "VALUED_AT",
+      "object": "$500 billion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "FACED",
+      "object": "multiple lawsuits",
+      "object_type": "Event"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "REMOVED",
+      "object": "Sam Altman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "REINSTATED",
+      "object": "Sam Altman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "OpenAI Global, LLC",
+      "subject_type": "Company",
+      "relation": "DEPRIORITIZED",
+      "object": "safety goals",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1720
+}

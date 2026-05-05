@@ -1,0 +1,146 @@
+{
+  "article": "Aurora Innovation",
+  "triples": [
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Chris Urmson",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Sterling Anderson",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Drew Bagnell",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Pittsburgh, Pennsylvania",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Aurora Driver",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "Aurora Innovation, Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "TESTS",
+      "object": "vehicles",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Francisco Bay Area",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Dallas",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Volkswagen",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Hyundai",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Nvidia",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Blackmore",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Blackmore",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Bozeman, Montana",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Chris Urmson",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Sterling Anderson",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Chris Urmson",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Drew Bagnell",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Sterling Anderson",
+      "subject_type": "Person",
+      "relation": "JOINED",
+      "object": "General Motors",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED_FINANCING_AT",
+      "object": "$2 billion valuation",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "AUTHORIZED_TO_TEST",
+      "object": "vehicles",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Aurora Innovation, Inc.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Waymo",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1851
+}

@@ -1,0 +1,118 @@
+{
+  "article": "Qualcomm",
+  "triples": [
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "1985",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Irwin Jacobs",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Diego, California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Snapdragon",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Dragonwing",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "RESEARCH_AREA",
+      "object": "artificial intelligence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "RESEARCH_AREA",
+      "object": "automotive applications",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "RESEARCH_AREA",
+      "object": "Internet of Things",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "RESEARCH_AREA",
+      "object": "augmented reality",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "RESEARCH_AREA",
+      "object": "virtual reality",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Apple",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "global mobile communication standards",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "HOLDS",
+      "object": "patents",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "INVOLVED_IN",
+      "object": "antitrust cases",
+      "object_type": "Event"
+    },
+    {
+      "subject": "Qualcomm Incorporated",
+      "subject_type": "Company",
+      "relation": "INVOLVED_IN",
+      "object": "litigation",
+      "object_type": "Event"
+    },
+    {
+      "subject": "CDMA",
+      "subject_type": "Technology",
+      "relation": "ADOPTED_AS",
+      "object": "2G standard",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1549
+}

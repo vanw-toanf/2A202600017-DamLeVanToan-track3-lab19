@@ -1,0 +1,97 @@
+{
+  "article": "Lightman",
+  "triples": [
+    {
+      "subject": "Alan Lightman",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1948",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Gavin Lightman",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1939",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Gavin Lightman",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2020",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Harold Lightman",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1906",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Harold Lightman",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1998",
+      "object_type": "Year"
+    },
+    {
+      "subject": "John Lightman",
+      "subject_type": "Person",
+      "relation": "MEMBER_OF",
+      "object": "Big Star",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stafford Lightman",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1948",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Toby Lightman",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1978",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Sari Lightman",
+      "subject_type": "Person",
+      "relation": "MEMBER_OF",
+      "object": "Tasseomancy",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Romy Lightman",
+      "subject_type": "Person",
+      "relation": "MEMBER_OF",
+      "object": "Tasseomancy",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Cal Lightman",
+      "subject_type": "Person",
+      "relation": "CHARACTER_IN",
+      "object": "Lie to Me",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Lightman",
+      "subject_type": "Product",
+      "relation": "DIRECTED_BY",
+      "object": "Venkatesh Kumar",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Lightman",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "Tamil Nadu",
+      "object_type": "Location"
+    }
+  ],
+  "tokens": 1033
+}

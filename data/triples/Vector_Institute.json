@@ -1,0 +1,111 @@
+{
+  "article": "State Research Center of Virology and Biotechnology VECTOR",
+  "triples": [
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "1974",
+      "object_type": "Year"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Koltsovo",
+      "object_type": "Location"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Novosibirsk Oblast",
+      "object_type": "Location"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Rospotrebnadzor",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "biological research",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "RESEARCH_AREA",
+      "object": "biological hazard",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "ACQUIRED",
+      "object": "smallpox virus",
+      "object_type": "Product"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "PARTNERED_WITH",
+      "object": "WHO H5 Reference Laboratory Network",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "WHO H5 Reference Laboratory Network",
+      "subject_type": "Organization",
+      "relation": "RESPONDS_TO",
+      "object": "avian influenza A (H5N1) infection",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "WHO H5 Reference Laboratory Network",
+      "subject_type": "Organization",
+      "relation": "RESPONDS_TO",
+      "object": "influenza pandemic preparedness",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "COMPETES_WITH",
+      "object": "Biopreparat",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "UPGRADED_WITH",
+      "object": "modern cameras",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "UPGRADED_WITH",
+      "object": "motion sensors",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "UPGRADED_WITH",
+      "object": "fences",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "State Research Center of Virology and Biotechnology VECTOR",
+      "subject_type": "Organization",
+      "relation": "UPGRADED_WITH",
+      "object": "biohazard containment systems",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1731
+}

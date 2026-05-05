@@ -1,0 +1,118 @@
+{
+  "article": "Mustafa Suleyman",
+  "triples": [
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "DeepMind Technologies",
+      "object_type": "Company"
+    },
+    {
+      "subject": "DeepMind Technologies",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Microsoft AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Inflection AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Inflection AI",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "DeepMind Technologies",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "DeepMind Technologies",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Reos Partners",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKED_FOR",
+      "object": "United Nations",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKED_FOR",
+      "object": "Dutch government",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKED_FOR",
+      "object": "World Wide Fund for Nature",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "University of Oxford",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "Mansfield College, Oxford",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "GREW_UP_IN",
+      "object": "London",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Mohammed Mamdani",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Muslim Youth Helpline",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "2001",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1537
+}

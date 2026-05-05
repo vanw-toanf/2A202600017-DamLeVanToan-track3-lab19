@@ -1,0 +1,132 @@
+{
+  "article": "Microsoft Azure",
+  "triples": [
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "OFFERED_TO",
+      "object": "individuals",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "OFFERED_TO",
+      "object": "companies",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "OFFERED_TO",
+      "object": "governments",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "SUPPORTED_BY",
+      "object": "Microsoft-specific software",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "SUPPORTED_BY",
+      "object": "third-party software",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "INTRODUCED_AT",
+      "object": "Professional Developers Conference",
+      "object_type": "Event"
+    },
+    {
+      "subject": "Professional Developers Conference",
+      "subject_type": "Event",
+      "relation": "HELD_IN",
+      "object": "October 2008",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "LAUNCHED_AS",
+      "object": "Windows Azure",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Windows Azure",
+      "subject_type": "Product",
+      "relation": "RENAMED_TO",
+      "object": "Microsoft Azure",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Windows Azure",
+      "subject_type": "Product",
+      "relation": "LAUNCHED_IN",
+      "object": "February 2010",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "RENAMED_ON",
+      "object": "March 25, 2014",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "Microsoft data centers worldwide",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "OFFERS",
+      "object": "more than 600 services",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "HAS_SERVICE_LEVEL_AGREEMENT",
+      "object": "99.9% availability",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "USES",
+      "object": "large-scale virtualization",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "POWERED_BY",
+      "object": "Ampere Cloud-native processors",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Azure",
+      "subject_type": "Product",
+      "relation": "OFFERS",
+      "object": "virtual machines",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1615
+}

@@ -1,0 +1,139 @@
+{
+  "article": "Perplexity AI",
+  "triples": [
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Aravind Srinivas",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Denis Yarats",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Johnny Ho",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Andy Konwinski",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "August 2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "VALUED_AT",
+      "object": "US$20 billion",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "United States",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Sonar",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Sonar",
+      "subject_type": "Product",
+      "relation": "BASED_ON",
+      "object": "Meta's Llama model",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "Google Chrome extension",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "iOS app",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "Android app",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "ATTRACTED_SCRUTINY_FROM",
+      "object": "BBC",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "ATTRACTED_SCRUTINY_FROM",
+      "object": "Dow Jones",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "ATTRACTED_SCRUTINY_FROM",
+      "object": "The New York Times",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "REPORTED",
+      "object": "two million unique visitors",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "$165 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "VALUED_AT",
+      "object": "over $1 billion",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Perplexity AI, Inc.",
+      "subject_type": "Company",
+      "relation": "CLOSED",
+      "object": "$500 million round",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1860
+}

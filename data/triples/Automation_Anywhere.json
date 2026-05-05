@@ -1,0 +1,174 @@
+{
+  "article": "Automation Anywhere",
+  "triples": [
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2003",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Jose",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "robotic process automation software",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Mihir Shukla",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Neeti Mehta Shukla",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Ankur Kothari",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Rushabh Parmani",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "REBRANDED_AS",
+      "object": "Automation Anywhere, Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Tethys Solutions, LLC",
+      "subject_type": "Company",
+      "relation": "REBRANDED_AS",
+      "object": "Automation Anywhere",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Klevops",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Klevops",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Paris",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "INTENDS_TO_ACQUIRE",
+      "object": "FortressIQ",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Neeti Mehta Shukla",
+      "subject_type": "Person",
+      "relation": "RECEIVED_AWARD",
+      "object": "Technology Pioneer Award",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Technology Pioneer Award",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Women's Entrepreneurship Day Organization",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Neeti Mehta Shukla",
+      "subject_type": "Person",
+      "relation": "PARTICIPATED_IN",
+      "object": "United Nations",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT",
+      "object": "$840 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "General Atlantic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "Goldman Sachs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "NEA",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "World Innovation Lab",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "SoftBank Investment Advisers",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "Workday Ventures",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Automation Anywhere",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENT_FROM",
+      "object": "Salesforce Ventures",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1792
+}

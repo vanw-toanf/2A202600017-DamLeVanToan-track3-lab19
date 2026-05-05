@@ -1,0 +1,111 @@
+{
+  "article": "Larry Page",
+  "triples": [
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Sergey Brin",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1998",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Google",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Alphabet Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Larry Page",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Alphabet Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Larry Page",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Lansing, Michigan",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Larry Page",
+      "subject_type": "Person",
+      "relation": "RECEIVED",
+      "object": "Marconi Prize",
+      "object_type": "Award"
+    },
+    {
+      "subject": "PageRank",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "BORN_ON",
+      "object": "March 26, 1973",
+      "object_type": "Date"
+    },
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "ESTIMATED_NET_WORTH",
+      "object": "US$269 billion",
+      "object_type": "Currency"
+    },
+    {
+      "subject": "Lawrence Edward Page",
+      "subject_type": "Person",
+      "relation": "SECOND_RICHEST_IN",
+      "object": "2026",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Larry Page",
+      "subject_type": "Person",
+      "relation": "SUCCESSOR",
+      "object": "Eric Schmidt",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Carl Victor Page Sr.",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "University of Michigan",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Gloria Page",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Lyman Briggs College",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Larry Page",
+      "subject_type": "Person",
+      "relation": "DIVORCED_FROM",
+      "object": "Gloria Page",
+      "object_type": "Person"
+    }
+  ],
+  "tokens": 1617
+}

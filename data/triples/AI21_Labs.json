@@ -1,0 +1,139 @@
+{
+  "article": "AI21 Labs",
+  "triples": [
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Yoav Shoham",
+      "object_type": "Person"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Ori Goshen",
+      "object_type": "Person"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Amnon Shashua",
+      "object_type": "Person"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "November 2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Tel Aviv",
+      "object_type": "Location"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "$9.5 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "Wordtune",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Wordtune",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "AI21 Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Wordtune",
+      "subject_type": "Product",
+      "relation": "NAMED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "AI21 Studio",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "Jurassic-1",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Jurassic-1",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "AI21 Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "INVESTED_IN",
+      "object": "$20 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "COMPLETED",
+      "object": "$25 million series A round",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "$64 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "Wordtune Spices",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "Jurassic-2",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "CLOSED",
+      "object": "$155 million Series C financing round",
+      "object_type": "Product"
+    },
+    {
+      "subject": "AI21 Labs",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Amazon Web Services",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1674
+}

@@ -1,0 +1,118 @@
+{
+  "article": "Robin Li",
+  "triples": [
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Baidu",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Baidu",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Baidu",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2000",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Baidu",
+      "subject_type": "Company",
+      "relation": "LISTED_ON",
+      "object": "NASDAQ",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Baidu",
+      "subject_type": "Company",
+      "relation": "LISTED_ON_DATE",
+      "object": "August 5, 2005",
+      "object_type": "Date"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "Peking University",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "University at Buffalo",
+      "object_type": "Location"
+    },
+    {
+      "subject": "RankDex",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "Robin Li Yanhong",
+      "object_type": "Person"
+    },
+    {
+      "subject": "RankDex",
+      "subject_type": "Product",
+      "relation": "CREATED_IN",
+      "object": "1996",
+      "object_type": "Year"
+    },
+    {
+      "subject": "IDD Information Services",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Dow Jones and Company",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "WORKED_AT",
+      "object": "IDD Information Services",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "MEMBER_OF",
+      "object": "Chinese People's Political Consultative Conference",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Chinese People's Political Consultative Conference",
+      "subject_type": "Organization",
+      "relation": "MEMBER_FROM",
+      "object": "2013",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Chinese People's Political Consultative Conference",
+      "subject_type": "Organization",
+      "relation": "MEMBER_UNTIL",
+      "object": "2018",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "NET_WORTH_ESTIMATED_BY",
+      "object": "Forbes",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Robin Li Yanhong",
+      "subject_type": "Person",
+      "relation": "NET_WORTH",
+      "object": "US$5.5 billion",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1731
+}

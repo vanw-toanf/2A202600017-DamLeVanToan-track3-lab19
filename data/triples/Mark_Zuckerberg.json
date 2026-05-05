@@ -1,0 +1,118 @@
+{
+  "article": "Mark Zuckerberg",
+  "triples": [
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED",
+      "object": "Facebook",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Facebook",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Meta Platforms",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Meta Platforms",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "February 2004",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "Facebook",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "TOOK_PUBLIC",
+      "object": "May 2012",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "BECAME",
+      "object": "youngest self-made billionaire",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "RANKED_AMONG",
+      "object": "world's wealthiest people",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "ESTIMATED_NET_WORTH",
+      "object": "US$220 billion",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Chan Zuckerberg Initiative",
+      "subject_type": "Organization",
+      "relation": "ESTABLISHED_BY",
+      "object": "Mark Elliot Zuckerberg",
+      "object_type": "Person"
+    },
+    {
+      "subject": "The Social Network",
+      "subject_type": "Product",
+      "relation": "BASED_ON",
+      "object": "Mark Elliot Zuckerberg",
+      "object_type": "Person"
+    },
+    {
+      "subject": "The Social Network",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2010",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "ATTENDED",
+      "object": "Harvard College",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "ATTENDED",
+      "object": "Phillips Exeter Academy",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "White Plains, New York",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mark Elliot Zuckerberg",
+      "subject_type": "Person",
+      "relation": "BORN_ON",
+      "object": "May 14, 1984",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1622
+}

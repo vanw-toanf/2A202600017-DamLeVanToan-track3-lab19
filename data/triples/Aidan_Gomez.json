@@ -1,0 +1,139 @@
+{
+  "article": "Aidan Gomez",
+  "triples": [
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Cohere",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Cohere",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cohere",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Brighton, Ontario",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "2019",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "GRADUATED_FROM",
+      "object": "University of Toronto",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "PURSUES",
+      "object": "PhD in computer science",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "PAUSED",
+      "object": "PhD studies",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "GRANTED",
+      "object": "PhD in 2024",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Google Brain",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "CO_AUTHORED",
+      "object": "Attention Is All You Need",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Attention Is All You Need",
+      "subject_type": "Product",
+      "relation": "CHANGED",
+      "object": "AI industry",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Attention Is All You Need",
+      "subject_type": "Product",
+      "relation": "LEAD_TO",
+      "object": "ChatGPT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Cohere For AI",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Cohere Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cohere Labs",
+      "subject_type": "Company",
+      "relation": "RELEASED",
+      "object": "Aya",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Aya",
+      "subject_type": "Product",
+      "relation": "IS",
+      "object": "open-source multilingual LLM",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "LAUNCHED",
+      "object": "FOR.ai",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cohere",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$1.6 billion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Cohere",
+      "subject_type": "Company",
+      "relation": "VALUED_AT",
+      "object": "$7 billion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "NAMED_TO",
+      "object": "2023 Time 100/AI list",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1640
+}

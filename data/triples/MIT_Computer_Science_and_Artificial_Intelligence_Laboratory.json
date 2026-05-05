@@ -1,0 +1,153 @@
+{
+  "article": "MIT Computer Science and Artificial Intelligence Laboratory",
+  "triples": [
+    {
+      "subject": "Computer Science and Artificial Intelligence Laboratory",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Massachusetts Institute of Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Computer Science and Artificial Intelligence Laboratory",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "2003",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Computer Science and Artificial Intelligence Laboratory",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Schwarzman College of Computing",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Computer Science and Artificial Intelligence Laboratory",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Ray and Maria Stata Center",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Laboratory for Computer Science",
+      "subject_type": "Organization",
+      "relation": "MERGED_WITH",
+      "object": "Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Massachusetts Institute of Technology",
+      "subject_type": "Organization",
+      "relation": "OVERSEEN_BY",
+      "object": "MIT Vice President of Research",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Vannevar Bush",
+      "subject_type": "Person",
+      "relation": "CONDUCTED_RESEARCH_ON",
+      "object": "differential analyzer",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Claude Shannon",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "electronic Boolean algebra",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Project MAC",
+      "subject_type": "Project",
+      "relation": "LAUNCHED_ON",
+      "object": "July 1, 1963",
+      "object_type": "Date"
+    },
+    {
+      "subject": "Project MAC",
+      "subject_type": "Project",
+      "relation": "FUNDED_BY",
+      "object": "Defense Advanced Research Projects Agency",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Robert Fano",
+      "subject_type": "Person",
+      "relation": "DIRECTOR_OF",
+      "object": "Project MAC",
+      "object_type": "Project"
+    },
+    {
+      "subject": "Project MAC",
+      "subject_type": "Project",
+      "relation": "RECEIVED_GRANT_OF",
+      "object": "$2 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "MIT Lincoln Laboratory",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Massachusetts Institute of Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Research Laboratory of Electronics",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Massachusetts Institute of Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Artificial intelligence",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Computational biology",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Graphics and vision",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Language and learning",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Theory of computation",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Robotics",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Systems",
+      "subject_type": "Research Area",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science and Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1828
+}

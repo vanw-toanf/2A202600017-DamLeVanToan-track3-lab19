@@ -1,0 +1,139 @@
+{
+  "article": "Stanford University centers and institutes",
+  "triples": [
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Center for the Study of Language and Information",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Center for the Study of Language and Information",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Stanford University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Center for the Study of Language and Information",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "1983",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Center for the Study of Language and Information",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Stanford University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Bio-X",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Spectrum",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Precourt Institute for Energy",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Woods Institute for the Environment",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Freeman Spogli Institute for International Studies",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Human-Sciences and Technologies Advance Research Institute",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Stanford Center on Longevity",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Stanford Humanities Center",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Stanford Institute for Economic Policy Research",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Edward L. Ginzton Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Geballe Laboratory for Advanced Materials",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Kavli Institute for Particle Astrophysics and Cosmology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Photon Ultrafast Laser Science and Engineering",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "Stanford Institute for Materials and Energy Sciences",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stanford University",
+      "subject_type": "Organization",
+      "relation": "HAS_CENTER",
+      "object": "W. W. Hansen Experimental Physics Laboratory",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1666
+}

@@ -1,0 +1,139 @@
+{
+  "article": "Yoshua Bengio",
+  "triples": [
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "FOUNDED",
+      "object": "Mila",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Université de Montréal",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "CO_PRESIDENT_OF",
+      "object": "LawZero",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "RECEIVED",
+      "object": "2018 ACM A.M. Turing Award",
+      "object_type": "Award"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Geoffrey Hinton",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Yann LeCun",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mila",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Quebec Artificial Intelligence Institute",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Canada",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "France",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "BORN_ON",
+      "object": "March 5, 1964",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Samy Bengio",
+      "subject_type": "Person",
+      "relation": "BROTHER_OF",
+      "object": "Yoshua Bengio",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Samy Bengio",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Apple",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Carlo Bengio",
+      "subject_type": "Person",
+      "relation": "FATHER_OF",
+      "object": "Yoshua Bengio",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Célia Moreno",
+      "subject_type": "Person",
+      "relation": "MOTHER_OF",
+      "object": "Yoshua Bengio",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Célia Moreno",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED",
+      "object": "l’Écran humain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "l’Écran humain",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Montreal",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Tayeb Seddiki",
+      "subject_type": "Person",
+      "relation": "LED",
+      "object": "Moroccan theater scene",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "INCLUDED_IN",
+      "object": "TIME Magazine's 100 most influential people",
+      "object_type": "Event"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "BECAME",
+      "object": "first AI researcher with more than a million Google Scholar citations",
+      "object_type": "Event"
+    }
+  ],
+  "tokens": 1888
+}

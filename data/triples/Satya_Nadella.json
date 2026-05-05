@@ -1,0 +1,132 @@
+{
+  "article": "Satya Nadella",
+  "triples": [
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "SUCCEEDED",
+      "object": "Steve Ballmer",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "SUCCEEDED",
+      "object": "John W. Thompson",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "1975",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "Hyderabad",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "BORN_ON",
+      "object": "19 August 1967",
+      "object_type": "Date"
+    },
+    {
+      "subject": "Bukkapuram Nadella Yugandhar",
+      "subject_type": "Person",
+      "relation": "FATHER_OF",
+      "object": "Satya Narayana Nadella",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Prabhavati",
+      "subject_type": "Person",
+      "relation": "MOTHER_OF",
+      "object": "Satya Narayana Nadella",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Hyderabad",
+      "subject_type": "Location",
+      "relation": "LOCATED_IN",
+      "object": "Andhra Pradesh",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "ATTENDED",
+      "object": "Hyderabad Public School, Begumpet",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "RECEIVED_DEGREE_IN",
+      "object": "Electrical Engineering",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Manipal Institute of Technology",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Karnataka",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "RECEIVED_DEGREE_FROM",
+      "object": "University of Wisconsin–Milwaukee",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Satya Narayana Nadella",
+      "subject_type": "Person",
+      "relation": "RECEIVED_DEGREE_FROM",
+      "object": "University of Chicago Booth School of Business",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sun Microsystems",
+      "subject_type": "Company",
+      "relation": "EMPLOYED",
+      "object": "Satya Narayana Nadella",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Cloud Computing",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1675
+}

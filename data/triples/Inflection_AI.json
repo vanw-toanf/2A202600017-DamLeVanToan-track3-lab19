@@ -1,0 +1,146 @@
+{
+  "article": "Inflection AI",
+  "triples": [
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Reid Hoffman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Mustafa Suleyman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Karén Simonyan",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Palo Alto, California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "machine learning and generative artificial intelligence hardware and apps",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Nvidia",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "US$1.3 billion",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "VALUATION",
+      "object": "$4 billion",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mustafa Suleyman",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Microsoft AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Karén Simonyan",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Microsoft AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Inflection AI, Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft",
+      "subject_type": "Company",
+      "relation": "PAID",
+      "object": "$650 million",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "LICENSED",
+      "object": "its technology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "UK's Competition and Markets Authority",
+      "subject_type": "Organization",
+      "relation": "LAUNCHED",
+      "object": "a preliminary probe",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Inflection AI, Inc.",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "UK consumer market",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Pi",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "Inflection AI, Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Pi",
+      "subject_type": "Product",
+      "relation": "INTENDED_FOR",
+      "object": "function as an artificial intelligence-based personal assistant",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Pi",
+      "subject_type": "Product",
+      "relation": "COMPETES_WITH",
+      "object": "ChatGPT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "OpenAI",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1660
+}

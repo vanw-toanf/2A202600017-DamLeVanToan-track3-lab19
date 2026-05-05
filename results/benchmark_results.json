@@ -1,0 +1,556 @@
+[
+  {
+    "question_id": 1,
+    "question": "Who founded OpenAI and what is their current role?",
+    "flat_rag": {
+      "question": "Who founded OpenAI and what is their current role?",
+      "method": "FlatRAG",
+      "answer": "OpenAI was founded in December 2015 by Elon Musk, Sam Altman, Ilya Sutskever, Greg Brockman, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba. Sam Altman is currently noted as a co-chair and was previously the CEO, although he was temporarily removed from that position in November 2023 before being reinstated five days later.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 1873,
+        "completion_tokens": 100,
+        "total_tokens": 1973,
+        "retrieve_s": 7.911,
+        "latency_s": 13.173
+      },
+      "latency_s": 13.173
+    },
+    "graph_rag": {
+      "question": "Who founded OpenAI and what is their current role?",
+      "method": "GraphRAG",
+      "answer": "Ilya Sutskever founded OpenAI and is currently the CEO of OpenAI.",
+      "entities_extracted": [
+        "OpenAI"
+      ],
+      "nodes_found": [
+        "OpenAI"
+      ],
+      "triples_count": 8,
+      "usage": {
+        "prompt_tokens": 164,
+        "completion_tokens": 18,
+        "total_tokens": 182,
+        "latency_s": 1.265
+      },
+      "latency_s": 2.673
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 8,
+        "completeness": 10,
+        "relevance": 9,
+        "total": 27,
+        "comment": "The answer accurately lists the founders and provides detailed information about Sam Altman's role, including his temporary removal and reinstatement."
+      },
+      "graph_rag": {
+        "accuracy": 5,
+        "completeness": 5,
+        "relevance": 6,
+        "total": 16,
+        "comment": "The answer incorrectly states that Ilya Sutskever founded OpenAI and lacks information about other founders and the context of Sam Altman's role."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides a more accurate and comprehensive answer to the question."
+    }
+  },
+  {
+    "question_id": 2,
+    "question": "Which AI companies were co-founded by former Google or DeepMind employees?",
+    "flat_rag": {
+      "question": "Which AI companies were co-founded by former Google or DeepMind employees?",
+      "method": "FlatRAG",
+      "answer": "The AI companies co-founded by former Google or DeepMind employees include:\n\n1. **Inflection AI** - co-founded by Mustafa Suleyman, a former head of applied AI at DeepMind.\n2. **AI21 Labs** - co-founded by Yoav Shoham, who has connections to the AI field. \n\n(Note: The document does not explicitly state that Yoav Shoham was a former Google or DeepMind employee, but he is mentioned in the context of AI development.)",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 3297,
+        "completion_tokens": 97,
+        "total_tokens": 3394,
+        "retrieve_s": 0.015,
+        "latency_s": 3.676
+      },
+      "latency_s": 3.676
+    },
+    "graph_rag": {
+      "question": "Which AI companies were co-founded by former Google or DeepMind employees?",
+      "method": "GraphRAG",
+      "answer": "The provided knowledge graph context does not contain information about AI companies co-founded by former Google or DeepMind employees. Therefore, I cannot answer the question based on the available data.",
+      "entities_extracted": [
+        "Google",
+        "DeepMind"
+      ],
+      "nodes_found": [
+        "DeepMind",
+        "Google"
+      ],
+      "triples_count": 27,
+      "usage": {
+        "prompt_tokens": 410,
+        "completion_tokens": 35,
+        "total_tokens": 445,
+        "latency_s": 1.841
+      },
+      "latency_s": 3.546
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 7,
+        "completeness": 6,
+        "relevance": 8,
+        "total": 21,
+        "comment": "Inflection AI is correctly identified, but AI21 Labs lacks clear connection to Google or DeepMind."
+      },
+      "graph_rag": {
+        "accuracy": 0,
+        "completeness": 0,
+        "relevance": 0,
+        "total": 0,
+        "comment": "No information provided to answer the question."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides some relevant information, while Graph RAG offers none."
+    }
+  },
+  {
+    "question_id": 3,
+    "question": "What products has NVIDIA developed that are used in AI research?",
+    "flat_rag": {
+      "question": "What products has NVIDIA developed that are used in AI research?",
+      "method": "FlatRAG",
+      "answer": "The provided excerpts do not specify any products developed by NVIDIA that are used in AI research. They mention NVIDIA's collaboration with Inflection AI to develop hardware for generative artificial intelligence, but do not detail specific products.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 2621,
+        "completion_tokens": 43,
+        "total_tokens": 2664,
+        "retrieve_s": 0.015,
+        "latency_s": 1.895
+      },
+      "latency_s": 1.895
+    },
+    "graph_rag": {
+      "question": "What products has NVIDIA developed that are used in AI research?",
+      "method": "GraphRAG",
+      "answer": "The provided knowledge graph context does not contain information about specific products developed by NVIDIA that are used in AI research. Therefore, I cannot provide an answer to your question based on the available data.",
+      "entities_extracted": [
+        "NVIDIA"
+      ],
+      "nodes_found": [
+        "Nvidia"
+      ],
+      "triples_count": 3,
+      "usage": {
+        "prompt_tokens": 130,
+        "completion_tokens": 38,
+        "total_tokens": 168,
+        "latency_s": 1.18
+      },
+      "latency_s": 1.896
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 5,
+        "completeness": 4,
+        "relevance": 6,
+        "total": 15,
+        "comment": "The answer acknowledges NVIDIA's collaboration but fails to mention specific products, leading to a lack of completeness."
+      },
+      "graph_rag": {
+        "accuracy": 5,
+        "completeness": 2,
+        "relevance": 5,
+        "total": 12,
+        "comment": "The answer states that there is no information available, which limits its completeness and relevance."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides some context about NVIDIA's involvement in AI, while Graph RAG does not offer any relevant information."
+    }
+  },
+  {
+    "question_id": 4,
+    "question": "Who is the CEO of Anthropic and what is their background?",
+    "flat_rag": {
+      "question": "Who is the CEO of Anthropic and what is their background?",
+      "method": "FlatRAG",
+      "answer": "The CEO of Anthropic is Dario Amodei. He is one of the co-founders of the company and was previously the Vice President of Research at OpenAI before founding Anthropic in 2021.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 3322,
+        "completion_tokens": 43,
+        "total_tokens": 3365,
+        "retrieve_s": 0.015,
+        "latency_s": 1.399
+      },
+      "latency_s": 1.399
+    },
+    "graph_rag": {
+      "question": "Who is the CEO of Anthropic and what is their background?",
+      "method": "GraphRAG",
+      "answer": "The CEO of Anthropic is Daniela Amodei. The knowledge graph does not provide additional details about her background.",
+      "entities_extracted": [
+        "Anthropic"
+      ],
+      "nodes_found": [
+        "Anthropic"
+      ],
+      "triples_count": 21,
+      "usage": {
+        "prompt_tokens": 265,
+        "completion_tokens": 23,
+        "total_tokens": 288,
+        "latency_s": 1.05
+      },
+      "latency_s": 2.035
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 10,
+        "completeness": 8,
+        "relevance": 10,
+        "total": 28,
+        "comment": "The answer correctly identifies Dario Amodei as the CEO and provides relevant background information."
+      },
+      "graph_rag": {
+        "accuracy": 0,
+        "completeness": 2,
+        "relevance": 2,
+        "total": 4,
+        "comment": "The answer incorrectly names the CEO as Daniela Amodei, which is factually incorrect."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides accurate information about the CEO and relevant background, while Graph RAG contains a critical error in the CEO's name."
+    }
+  },
+  {
+    "question_id": 5,
+    "question": "What is the relationship between Google Brain and Google DeepMind?",
+    "flat_rag": {
+      "question": "What is the relationship between Google Brain and Google DeepMind?",
+      "method": "FlatRAG",
+      "answer": "Google Brain was merged with Google sister company DeepMind to form Google DeepMind in April 2023. Prior to this merger, Google Brain served as the sole AI branch of Google before being incorporated under Google AI.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 3375,
+        "completion_tokens": 43,
+        "total_tokens": 3418,
+        "retrieve_s": 0.015,
+        "latency_s": 3.105
+      },
+      "latency_s": 3.105
+    },
+    "graph_rag": {
+      "question": "What is the relationship between Google Brain and Google DeepMind?",
+      "method": "GraphRAG",
+      "answer": "Google Brain and Google DeepMind have a relationship where Google DeepMind has co-developed Google Brain (Google DeepMind - CO_DEVELOPED → Google Brain) and Google Brain has merged with DeepMind (Google Brain - MERGED_WITH → DeepMind). Additionally, Google DeepMind is a subsidiary of Google (Google - HAS_SUBSIDIARY → Google DeepMind).",
+      "entities_extracted": [
+        "Google Brain",
+        "Google DeepMind"
+      ],
+      "nodes_found": [
+        "Google DeepMind",
+        "Google Brain"
+      ],
+      "triples_count": 20,
+      "usage": {
+        "prompt_tokens": 334,
+        "completion_tokens": 73,
+        "total_tokens": 407,
+        "latency_s": 1.534
+      },
+      "latency_s": 2.485
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 8,
+        "completeness": 7,
+        "relevance": 9,
+        "total": 24,
+        "comment": "The answer correctly states the merger and the prior role of Google Brain, but lacks detail on the relationship dynamics."
+      },
+      "graph_rag": {
+        "accuracy": 9,
+        "completeness": 9,
+        "relevance": 10,
+        "total": 28,
+        "comment": "The answer provides a detailed and accurate representation of the relationships between Google Brain and Google DeepMind, including co-development and subsidiary status."
+      },
+      "winner": "graph_rag",
+      "reason": "GraphRAG provides a more comprehensive and accurate depiction of the relationship between Google Brain and Google DeepMind."
+    }
+  },
+  {
+    "question_id": 6,
+    "question": "Which companies has Sam Altman been involved with as a founder or investor?",
+    "flat_rag": {
+      "question": "Which companies has Sam Altman been involved with as a founder or investor?",
+      "method": "FlatRAG",
+      "answer": "Sam Altman has been involved with OpenAI as a co-founder and co-chair. He has also been a co-founder of Y Combinator, a startup accelerator. Additionally, he has made investments in various companies, but specific companies are not mentioned in the provided excerpts.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 3421,
+        "completion_tokens": 55,
+        "total_tokens": 3476,
+        "retrieve_s": 0.015,
+        "latency_s": 1.508
+      },
+      "latency_s": 1.508
+    },
+    "graph_rag": {
+      "question": "Which companies has Sam Altman been involved with as a founder or investor?",
+      "method": "GraphRAG",
+      "answer": "Based on the provided knowledge graph context, Sam Altman is associated with OpenAI Global, LLC as a founder. There is no information regarding other companies he has been involved with as a founder or investor in the context provided.",
+      "entities_extracted": [
+        "Sam Altman"
+      ],
+      "nodes_found": [
+        "Sam Altman"
+      ],
+      "triples_count": 3,
+      "usage": {
+        "prompt_tokens": 123,
+        "completion_tokens": 45,
+        "total_tokens": 168,
+        "latency_s": 1.423
+      },
+      "latency_s": 2.36
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 8,
+        "completeness": 6,
+        "relevance": 9,
+        "total": 23,
+        "comment": "The answer correctly identifies OpenAI and Y Combinator but lacks specific details about other investments."
+      },
+      "graph_rag": {
+        "accuracy": 8,
+        "completeness": 4,
+        "relevance": 8,
+        "total": 20,
+        "comment": "The answer accurately mentions OpenAI but fails to provide any additional context about other companies."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides more information about Sam Altman's involvement with Y Combinator, making it more complete despite both answers being factually accurate."
+    }
+  },
+  {
+    "question_id": 7,
+    "question": "What large language models have been developed by Meta AI?",
+    "flat_rag": {
+      "question": "What large language models have been developed by Meta AI?",
+      "method": "FlatRAG",
+      "answer": "Meta AI has developed the Llama family of large language models, which includes Llama 1, Llama 2, Llama 3, and the latest version, Llama 4, released in April 2025.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 2560,
+        "completion_tokens": 47,
+        "total_tokens": 2607,
+        "retrieve_s": 0.014,
+        "latency_s": 1.575
+      },
+      "latency_s": 1.575
+    },
+    "graph_rag": {
+      "question": "What large language models have been developed by Meta AI?",
+      "method": "GraphRAG",
+      "answer": "The large language models developed by Meta AI are Llama, Llama 2, Llama 3, and Llama 4, as they are all indicated to be released by Meta AI.",
+      "entities_extracted": [
+        "Meta AI"
+      ],
+      "nodes_found": [
+        "Meta AI"
+      ],
+      "triples_count": 6,
+      "usage": {
+        "prompt_tokens": 158,
+        "completion_tokens": 40,
+        "total_tokens": 198,
+        "latency_s": 1.314
+      },
+      "latency_s": 2.238
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 6,
+        "completeness": 7,
+        "relevance": 8,
+        "total": 21,
+        "comment": "While it correctly lists the Llama family, the mention of Llama 4 being released in April 2025 is inaccurate as of the current date."
+      },
+      "graph_rag": {
+        "accuracy": 8,
+        "completeness": 8,
+        "relevance": 9,
+        "total": 25,
+        "comment": "It accurately lists the models without providing incorrect release dates, making it more reliable."
+      },
+      "winner": "graph_rag",
+      "reason": "GraphRAG provides more accurate and reliable information without any incorrect future release dates."
+    }
+  },
+  {
+    "question_id": 8,
+    "question": "How does GPT-4 relate to OpenAI and what companies use it?",
+    "flat_rag": {
+      "question": "How does GPT-4 relate to OpenAI and what companies use it?",
+      "method": "FlatRAG",
+      "answer": "GPT-4 is a generative pre-trained transformer model developed by OpenAI, praised for its increased accuracy and multimodal capabilities. It is available only via API and has influenced various research subfields, including robotics and software engineering. Companies that utilize GPT-4 include those that integrate it into their applications, such as Expedia, OpenTable, and Zapier through plugins for ChatGPT.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 3024,
+        "completion_tokens": 77,
+        "total_tokens": 3101,
+        "retrieve_s": 0.015,
+        "latency_s": 2.312
+      },
+      "latency_s": 2.312
+    },
+    "graph_rag": {
+      "question": "How does GPT-4 relate to OpenAI and what companies use it?",
+      "method": "GraphRAG",
+      "answer": "The provided knowledge graph context does not contain any information about GPT-4 or the companies that use it. Therefore, I cannot answer your question based on the available data.",
+      "entities_extracted": [
+        "GPT-4",
+        "OpenAI"
+      ],
+      "nodes_found": [
+        "OpenAI"
+      ],
+      "triples_count": 8,
+      "usage": {
+        "prompt_tokens": 168,
+        "completion_tokens": 34,
+        "total_tokens": 202,
+        "latency_s": 1.495
+      },
+      "latency_s": 2.395
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 9,
+        "completeness": 8,
+        "relevance": 9,
+        "total": 26,
+        "comment": "Answer A provides accurate information about GPT-4 and mentions specific companies that use it, making it relevant and mostly complete."
+      },
+      "graph_rag": {
+        "accuracy": 0,
+        "completeness": 0,
+        "relevance": 0,
+        "total": 0,
+        "comment": "Answer B does not provide any information about GPT-4 or related companies, resulting in a complete lack of accuracy, completeness, and relevance."
+      },
+      "winner": "flat_rag",
+      "reason": "Answer A is factually correct and relevant, while Answer B provides no useful information."
+    }
+  },
+  {
+    "question_id": 9,
+    "question": "What AI research institutions are associated with Stanford University?",
+    "flat_rag": {
+      "question": "What AI research institutions are associated with Stanford University?",
+      "method": "FlatRAG",
+      "answer": "The AI research institutions associated with Stanford University include:\n\n1. Stanford Artificial Intelligence Laboratory (SAIL)\n2. Center for the Study of Language and Information (CSLI)",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 2356,
+        "completion_tokens": 34,
+        "total_tokens": 2390,
+        "retrieve_s": 0.013,
+        "latency_s": 1.416
+      },
+      "latency_s": 1.416
+    },
+    "graph_rag": {
+      "question": "What AI research institutions are associated with Stanford University?",
+      "method": "GraphRAG",
+      "answer": "The knowledge graph context does not provide specific information about AI research institutions associated with Stanford University. Therefore, I cannot answer the question based on the provided context.",
+      "entities_extracted": [
+        "Stanford University"
+      ],
+      "nodes_found": [
+        "Stanford University"
+      ],
+      "triples_count": 19,
+      "usage": {
+        "prompt_tokens": 239,
+        "completion_tokens": 31,
+        "total_tokens": 270,
+        "latency_s": 1.267
+      },
+      "latency_s": 2.073
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 10,
+        "completeness": 8,
+        "relevance": 10,
+        "total": 28,
+        "comment": "Answer A provides accurate and relevant information about AI research institutions at Stanford, though it could mention more institutions for completeness."
+      },
+      "graph_rag": {
+        "accuracy": 0,
+        "completeness": 0,
+        "relevance": 0,
+        "total": 0,
+        "comment": "Answer B does not provide any information and states a lack of context, resulting in a complete failure to answer the question."
+      },
+      "winner": "flat_rag",
+      "reason": "Answer A is accurate and relevant, while Answer B fails to provide any useful information."
+    }
+  },
+  {
+    "question_id": 10,
+    "question": "Which autonomous vehicle companies have received investment from major tech firms?",
+    "flat_rag": {
+      "question": "Which autonomous vehicle companies have received investment from major tech firms?",
+      "method": "FlatRAG",
+      "answer": "Cruise received investments from major tech firms including SoftBank Vision Fund, Microsoft, and Honda. Automation Anywhere received investments from General Atlantic, Goldman Sachs, NEA, World Innovation Lab, SoftBank Investment Advisers, and Workday Ventures.",
+      "context_chunks": 5,
+      "usage": {
+        "prompt_tokens": 2190,
+        "completion_tokens": 48,
+        "total_tokens": 2238,
+        "retrieve_s": 0.015,
+        "latency_s": 1.479
+      },
+      "latency_s": 1.479
+    },
+    "graph_rag": {
+      "question": "Which autonomous vehicle companies have received investment from major tech firms?",
+      "method": "GraphRAG",
+      "answer": "There is no relevant knowledge graph data available to answer your question about autonomous vehicle companies that have received investment from major tech firms.",
+      "entities_extracted": [
+        "autonomous vehicle companies",
+        "major tech firms"
+      ],
+      "nodes_found": [],
+      "triples_count": 0,
+      "usage": {
+        "prompt_tokens": 79,
+        "completion_tokens": 25,
+        "total_tokens": 104,
+        "latency_s": 0.964
+      },
+      "latency_s": 2.206
+    },
+    "judgment": {
+      "flat_rag": {
+        "accuracy": 8,
+        "completeness": 7,
+        "relevance": 9,
+        "total": 24,
+        "comment": "The answer provides specific examples of autonomous vehicle companies and their investors, but it includes Automation Anywhere, which is not an autonomous vehicle company."
+      },
+      "graph_rag": {
+        "accuracy": 0,
+        "completeness": 0,
+        "relevance": 0,
+        "total": 0,
+        "comment": "The answer states that there is no relevant data available, which does not provide any information to the question."
+      },
+      "winner": "flat_rag",
+      "reason": "Flat RAG provides some relevant information about autonomous vehicle companies, while Graph RAG fails to provide any useful data."
+    }
+  }
+]

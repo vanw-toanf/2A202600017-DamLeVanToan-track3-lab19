@@ -1,0 +1,160 @@
+{
+  "article": "Microsoft Research",
+  "triples": [
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Richard Rashid",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Bill Gates",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Nathan Myhrvold",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "1991",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Microsoft",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "EMPLOYS",
+      "object": "1,000 computer scientists",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "EMPLOYS",
+      "object": "physicists",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "EMPLOYS",
+      "object": "engineers",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "EMPLOYS",
+      "object": "mathematicians",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Kinect",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Bing",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "HoloLens",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Cortana",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Microsoft Translator",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "LinkedIn",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Havok",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "Dynamics",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "SPENT",
+      "object": "$6 billion",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "SPENT",
+      "object": "$10–14 billion",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "PARTNERED_WITH",
+      "object": "academic researchers",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "PARTNERED_WITH",
+      "object": "government researchers",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Microsoft Research",
+      "subject_type": "Organization",
+      "relation": "PARTNERED_WITH",
+      "object": "industry researchers",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1864
+}

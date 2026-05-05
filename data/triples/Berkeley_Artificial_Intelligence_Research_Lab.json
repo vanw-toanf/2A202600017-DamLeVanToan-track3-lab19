@@ -1,0 +1,153 @@
+{
+  "article": "List of university artificial intelligence research centers",
+  "triples": [
+    {
+      "subject": "Australian Artificial Intelligence Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Technology Sydney",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Institute for Computer Science, Artificial Intelligence and Technology",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Sofia University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Centre for AI Decision-making and Action",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of British Columbia",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Centre for Intelligent Machines",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "McGill University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Centre for Analytics and Artificial Intelligence Engineering",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Toronto",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Temerty Centre for Artificial Intelligence Research and Education in Medicine",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Toronto",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Vector Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Toronto",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Waterloo Data and Artificial Intelligence Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Waterloo",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Artificial Intelligence Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Shanghai Jiao Tong University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Institute for AI Industry Research",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Tsinghua University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Institute for Artificial Intelligence",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Peking University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Institute of Artificial Intelligence",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Zhejiang University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Munich Center for Machine Learning",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "joint research initiative of LMU Munich and Technical University of Munich",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Centre for Artificial Intelligence Research",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Hong Kong University of Science and Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Centre of AI-for-X",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Nanyang Technological University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "NUS Artificial Intelligence Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "National University of Singapore",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Wits MIND Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of the Witwatersrand",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Kim Jaechul Graduate School of AI",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "KAIST",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Dalle Molle Institute for Artificial Intelligence Research",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "joint institute of the Università della Svizzera italiana and SUPSI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "ETH AI Center",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "ETH Zurich",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Artificial Intelligence Applications Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Edinburgh",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1752
+}

@@ -1,0 +1,8 @@
+{
+  "total_articles": 60,
+  "total_triples": 1090,
+  "neo4j_nodes": 1099,
+  "neo4j_relationships": 1081,
+  "total_tokens": 102421,
+  "estimated_cost_usd": 0.015363
+}

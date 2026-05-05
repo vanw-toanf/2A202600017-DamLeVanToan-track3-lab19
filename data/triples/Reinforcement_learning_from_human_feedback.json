@@ -1,0 +1,111 @@
+{
+  "article": "Reinforcement learning from human feedback",
+  "triples": [
+    {
+      "subject": "Reinforcement Learning from Human Feedback",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED",
+      "object": "Intelligent Agent",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning from Human Feedback",
+      "subject_type": "Technology",
+      "relation": "APPLIES_TO",
+      "object": "Natural Language Processing",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning from Human Feedback",
+      "subject_type": "Technology",
+      "relation": "APPLIES_TO",
+      "object": "Computer Vision",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning from Human Feedback",
+      "subject_type": "Technology",
+      "relation": "APPLIES_TO",
+      "object": "Video Game Bots",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reward Model",
+      "subject_type": "Technology",
+      "relation": "TRAINED_IN",
+      "object": "Supervised Manner",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reward Model",
+      "subject_type": "Technology",
+      "relation": "PREDICTS",
+      "object": "Response Quality",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Optimization Algorithm",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "Proximal Policy Optimization",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Human Feedback",
+      "subject_type": "Technology",
+      "relation": "COLLECTED_FROM",
+      "object": "Human Annotators",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Human Preferences",
+      "subject_type": "Technology",
+      "relation": "REPRESENTED_BY",
+      "object": "Reward Model",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning",
+      "subject_type": "Technology",
+      "relation": "SEEKS_TO",
+      "object": "Align Intelligent Agent",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reward Function",
+      "subject_type": "Technology",
+      "relation": "OPTIMIZED_BY",
+      "object": "Agent's Policy",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Data Collection",
+      "subject_type": "Technology",
+      "relation": "FACES_CHALLENGES",
+      "object": "Biases",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Preference Data",
+      "subject_type": "Technology",
+      "relation": "SOURCED_FROM",
+      "object": "Representative Sample",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning",
+      "subject_type": "Technology",
+      "relation": "AIMS_TO",
+      "object": "Improve Performance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Reinforcement Learning from Human Feedback",
+      "subject_type": "Technology",
+      "relation": "INCLUDES",
+      "object": "Text Summarization",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1522
+}

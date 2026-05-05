@@ -1,0 +1,125 @@
+{
+  "article": "Waldo (given name)",
+  "triples": [
+    {
+      "subject": "Waldo of Reichenau",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "740",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo of Reichenau",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "814",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Colburn",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1824",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Colburn",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1885",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Díaz-Balart",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1931",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Díaz-Balart",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2025",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Ralph Waldo Emerson",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1803",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Ralph Waldo Emerson",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1882",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo A. Evans",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1869",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo A. Evans",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1936",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Frank",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1889",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Frank",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1967",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Grant",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1946",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Grant",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo E. Harder",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1918",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo E. Harder",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1976",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Waldo Ponce",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "Year Unknown",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1678
+}

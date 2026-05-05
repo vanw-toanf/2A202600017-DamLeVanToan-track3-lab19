@@ -1,0 +1,111 @@
+{
+  "article": "Large language model",
+  "triples": [
+    {
+      "subject": "Large language model",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED",
+      "object": "neural network",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Large language model",
+      "subject_type": "Technology",
+      "relation": "USED_FOR",
+      "object": "natural language processing tasks",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Large language model",
+      "subject_type": "Technology",
+      "relation": "LOCATED_IN",
+      "object": "modern chatbots",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "transformer architectures",
+      "subject_type": "Technology",
+      "relation": "FOUNDED_IN",
+      "object": "2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Attention Is All You Need",
+      "subject_type": "Product",
+      "relation": "PUBLISHED_IN",
+      "object": "2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "IBM",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "1990s",
+      "object_type": "Year"
+    },
+    {
+      "subject": "IBM's statistical models",
+      "subject_type": "Technology",
+      "relation": "PIONEERED",
+      "object": "word alignment techniques",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "smoother n-gram model",
+      "subject_type": "Technology",
+      "relation": "ACHIEVED",
+      "object": "state-of-the-art perplexity",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "300 million words",
+      "subject_type": "Product",
+      "relation": "TRAINED_ON",
+      "object": "smoother n-gram model",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "neural networks",
+      "subject_type": "Technology",
+      "relation": "USED_FOR",
+      "object": "language models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "deep neural networks",
+      "subject_type": "Technology",
+      "relation": "ADAPTED_FOR",
+      "object": "language tasks",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Word2Vec",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "Mikolov",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Mikolov",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "Word2Vec",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google",
+      "subject_type": "Company",
+      "relation": "TRANSITIONED_TO",
+      "object": "neural machine translation",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "neural machine translation",
+      "subject_type": "Technology",
+      "relation": "REPLACED",
+      "object": "statistical translation service",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1555
+}

@@ -1,0 +1,125 @@
+{
+  "article": "Llama (language model)",
+  "triples": [
+    {
+      "subject": "Llama",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "Meta AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Llama",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "February 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Llama 2",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "Meta AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Llama 3",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "Meta AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Llama 4",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "Meta AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Llama 4",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "April 2025",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Muse Spark",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "Meta Superintelligence Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Muse Spark",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "April 2026",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Yann LeCun",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Meta",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Yann LeCun",
+      "subject_type": "Person",
+      "relation": "STATED",
+      "object": "large language models are best for aiding with writing",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "GPT-3",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "large language models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "CAUSED_INCREASE_IN",
+      "object": "attention to large language models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Llama",
+      "subject_type": "Product",
+      "relation": "HAS_VERSIONS",
+      "object": "Llama 1, Llama 2, Llama 3, Llama 4",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Llama 1",
+      "subject_type": "Product",
+      "relation": "ANNOUNCED_ON",
+      "object": "February 24, 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Llama 1",
+      "subject_type": "Product",
+      "relation": "RELEASED_UNDER",
+      "object": "open-source GPLv3 license",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Meta AI",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Facebook",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Meta AI",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "WhatsApp",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1744
+}

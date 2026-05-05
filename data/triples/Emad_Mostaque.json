@@ -1,0 +1,111 @@
+{
+  "article": "Emad Mostaque",
+  "triples": [
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Intelligent Internet",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "AUTHOR_OF",
+      "object": "The Last Economy",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Stability AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Stability AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Stability AI",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Jordan",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "MIGRATED_TO",
+      "object": "United Kingdom",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "EARNED_DEGREE_FROM",
+      "object": "University of Oxford",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "INTERESTED_IN",
+      "object": "Islamic AI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "INVOLVED_IN",
+      "object": "crude oil trading",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Mohammad Emad Mostaque",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Cyrus Hodes",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Stability AI",
+      "subject_type": "Company",
+      "relation": "RECEIVED_INVESTMENTS_FROM",
+      "object": "other companies",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Symmitree",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Mohammad Emad Mostaque",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Symmitree",
+      "subject_type": "Company",
+      "relation": "AIMED_TO",
+      "object": "reduce the cost of technology for individuals living in poverty",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "COVID-19 pandemic",
+      "subject_type": "Event",
+      "relation": "LED_BY",
+      "object": "Mohammad Emad Mostaque",
+      "object_type": "Person"
+    }
+  ],
+  "tokens": 1559
+}

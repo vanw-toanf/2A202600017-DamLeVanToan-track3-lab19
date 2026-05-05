@@ -1,0 +1,111 @@
+{
+  "article": "I, Robot",
+  "triples": [
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "COMPILED_IN",
+      "object": "Gnome Press",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Isaac Asimov",
+      "subject_type": "Person",
+      "relation": "WRITTEN_BY",
+      "object": "I, Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "PUBLISHED_IN",
+      "object": "Super Science Stories",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "PUBLISHED_IN",
+      "object": "Astounding Science Fiction",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Gnome Press",
+      "subject_type": "Company",
+      "relation": "PUBLISHED_IN",
+      "object": "I, Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "1950",
+      "object_type": "Year"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "The Complete Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Dr. Susan Calvin",
+      "subject_type": "Person",
+      "relation": "CHARACTER_IN",
+      "object": "I, Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "U.S. Robots and Mechanical Men, Inc.",
+      "subject_type": "Company",
+      "relation": "MANUFACTURER_OF",
+      "object": "robots",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Isaac Asimov",
+      "subject_type": "Person",
+      "relation": "INFLUENCED_BY",
+      "object": "Eando Binder",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Eando Binder",
+      "subject_type": "Person",
+      "relation": "PSEUDONYM_OF",
+      "object": "Earl and Otto Binder",
+      "object_type": "Person"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "SHARES_THEME_WITH",
+      "object": "interaction of humans, robots, and morality",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Three Laws of Robotics",
+      "subject_type": "Technology",
+      "relation": "FIRST_APPEARED_IN",
+      "object": "I, Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Powell and Donovan",
+      "subject_type": "Person",
+      "relation": "CHARACTER_IN",
+      "object": "I, Robot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "I, Robot",
+      "subject_type": "Product",
+      "relation": "INFLUENCED",
+      "object": "thought on ethics of artificial intelligence",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1534
+}

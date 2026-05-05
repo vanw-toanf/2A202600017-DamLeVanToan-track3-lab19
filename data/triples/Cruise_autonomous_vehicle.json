@@ -1,0 +1,132 @@
+{
+  "article": "Cruise (autonomous vehicle)",
+  "triples": [
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Kyle Vogt",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Dan Kan",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2013",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "General Motors",
+      "object_type": "Company"
+    },
+    {
+      "subject": "General Motors",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Cruise LLC",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Francisco, California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "SUSPENDED_OPERATIONS_IN",
+      "object": "October 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Kyle Vogt",
+      "subject_type": "Person",
+      "relation": "RESIGNED_AS",
+      "object": "CEO",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "RETURNED_VEHICLES_TO_PUBLIC_ROADS_IN",
+      "object": "May 2024",
+      "object_type": "Year"
+    },
+    {
+      "subject": "General Motors",
+      "subject_type": "Company",
+      "relation": "STOPPED_FUNDING",
+      "object": "Cruise LLC",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "autonomous car technology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "General Motors",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "advanced driver assistance systems",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "RP-1",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "RP-1",
+      "subject_type": "Technology",
+      "relation": "OFFERED_FOR",
+      "object": "Audi A4 or S4",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "DECIDED_TO_ABANDON",
+      "object": "RP-1",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Cruise LLC",
+      "subject_type": "Company",
+      "relation": "DECIDED_TO_PRODUCE",
+      "object": "fully autonomous vehicle",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "fully autonomous vehicle",
+      "subject_type": "Technology",
+      "relation": "USING",
+      "object": "Nissan Leaf",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1680
+}

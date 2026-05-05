@@ -1,0 +1,132 @@
+{
+  "article": "Gemini (language model)",
+  "triples": [
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "Google DeepMind",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "SUCCESSOR_TO",
+      "object": "LaMDA",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "SUCCESSOR_TO",
+      "object": "PaLM 2",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "ANNOUNCED_ON",
+      "object": "December 6, 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "POWERS",
+      "object": "Gemini chatbot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google",
+      "subject_type": "Company",
+      "relation": "ANNOUNCED",
+      "object": "Gemini",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google",
+      "subject_type": "Company",
+      "relation": "HAS_SUBSIDIARY",
+      "object": "Google DeepMind",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Google DeepMind",
+      "subject_type": "Organization",
+      "relation": "CO_DEVELOPED",
+      "object": "Gemini",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google DeepMind",
+      "subject_type": "Organization",
+      "relation": "CO_DEVELOPED",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sundar Pichai",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "POSITIONED_AS",
+      "object": "Successor to PaLM 2",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "DeepMind",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "DESIGNED_TO_BE",
+      "object": "Multimodal",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "TARGETED_LAUNCH_DATE",
+      "object": "Late 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "AlphaGo",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED_BY",
+      "object": "DeepMind",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "AlphaGo",
+      "subject_type": "Technology",
+      "relation": "GAINED_ATTENTION_IN",
+      "object": "2016",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Lee Sedol",
+      "subject_type": "Person",
+      "relation": "DEFEATED_BY",
+      "object": "AlphaGo",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Gemini",
+      "subject_type": "Product",
+      "relation": "COMBINES_POWER_OF",
+      "object": "AlphaGo",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1615
+}

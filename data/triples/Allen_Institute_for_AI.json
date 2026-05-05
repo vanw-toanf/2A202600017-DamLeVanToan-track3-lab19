@@ -1,0 +1,125 @@
+{
+  "article": "Allen Institute for AI",
+  "triples": [
+    {
+      "subject": "Allen Institute for AI",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Paul Allen",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Allen Institute for AI",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "2014",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Allen Institute for AI",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Seattle",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Allen Institute for AI",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Tel Aviv",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Oren Etzioni",
+      "subject_type": "Person",
+      "relation": "APPOINTED_BY",
+      "object": "Paul Allen",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Oren Etzioni",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Allen Institute for AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Oren Etzioni",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Allen Institute for AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Peter Clark",
+      "subject_type": "Person",
+      "relation": "REPLACED_BY",
+      "object": "Oren Etzioni",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Ali Farhadi",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Allen Institute for AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Ali Farhadi",
+      "subject_type": "Person",
+      "relation": "STARTED_ON",
+      "object": "July 31, 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Peter Clark",
+      "subject_type": "Person",
+      "relation": "REPLACED_BY",
+      "object": "Ali Farhadi",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Aristo",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Allen Institute for AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Aristo",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "artificially intelligent system",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AI2-THOR",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "PRIOR team",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Iconary",
+      "subject_type": "Product",
+      "relation": "RELEASED_BY",
+      "object": "PRIOR team",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Vulcan",
+      "subject_type": "Company",
+      "relation": "CARRIED_OUT",
+      "object": "Project Halo",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Allen Institute for AI",
+      "subject_type": "Organization",
+      "relation": "SEEK_TO_CONDUCT",
+      "object": "high-impact AI research",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1606
+}

@@ -1,0 +1,118 @@
+{
+  "article": "Yann LeCun",
+  "triples": [
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "BORN_ON",
+      "object": "8 July 1960",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "Soisy-sous-Montmorency",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "Guingamp",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "RECEIVED",
+      "object": "Diplôme d'Ingénieur",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "RECEIVED",
+      "object": "PhD in computer science",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "New York University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "SERVED_AS",
+      "object": "Chief AI Scientist",
+      "object_type": "Position"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "WORKED_AT",
+      "object": "Meta Platforms",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "CO_DEVELOPED",
+      "object": "Lush programming language",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "CREATED",
+      "object": "DjVu image compression technology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "RECEIVED",
+      "object": "Turing Award",
+      "object_type": "Award"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Yoshua Bengio",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Geoffrey Hinton",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Yoshua Bengio",
+      "subject_type": "Person",
+      "relation": "PARTNERED_WITH",
+      "object": "Geoffrey Hinton",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "REFERRED_TO_AS",
+      "object": "Godfather of AI",
+      "object_type": "Title"
+    },
+    {
+      "subject": "Yann André Le Cun",
+      "subject_type": "Person",
+      "relation": "REFERRED_TO_AS",
+      "object": "Godfather of Deep Learning",
+      "object_type": "Title"
+    }
+  ],
+  "tokens": 1768
+}

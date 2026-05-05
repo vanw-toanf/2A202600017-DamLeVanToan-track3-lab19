@@ -1,0 +1,125 @@
+{
+  "article": "Woot",
+  "triples": [
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Matt Rutledge",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2004",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Carrollton, Texas",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Amazon",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "one-deal-a-day business model",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "discounted products",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Amazon",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "T-shirts",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "wine",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "children's items",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "household goods",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "Motorola Xooms",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "refurbished items",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "computer hardware",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "OFFERED",
+      "object": "electronic gadgets",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Woot",
+      "subject_type": "Company",
+      "relation": "ANNOUNCED",
+      "object": "agreement to be acquired",
+      "object_type": "Event"
+    },
+    {
+      "subject": "June 30, 2010",
+      "subject_type": "Year",
+      "relation": "IS_DATE_OF",
+      "object": "agreement to be acquired",
+      "object_type": "Event"
+    }
+  ],
+  "tokens": 1591
+}

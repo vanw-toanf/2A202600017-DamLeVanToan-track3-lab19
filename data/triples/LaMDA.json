@@ -1,0 +1,118 @@
+{
+  "article": "Lambda",
+  "triples": [
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "REPRESENTS",
+      "object": "voiced alveolar lateral approximant",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "DERIVES_FROM",
+      "object": "Phoenician letter Lamed",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "GAVE_RISE_TO",
+      "object": "Latin L",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "GAVE_RISE_TO",
+      "object": "Cyrillic El",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "HAS_VALUE",
+      "object": "30",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "CALLED_IN_CLASSICAL_GREEK",
+      "object": "λάβδα",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "CALLED_IN_MODERN_GREEK",
+      "object": "λάμδα",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "USED_SPELLING",
+      "object": "λάμβδα",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "HAS_VARIANTS",
+      "object": "two straight strokes",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "HAS_VARIANTS",
+      "object": "vertical line with a horizontal stroke",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ionic alphabet",
+      "subject_type": "Technology",
+      "relation": "ADOPTED_BY",
+      "object": "Greek",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Uppercase Lambda",
+      "subject_type": "Technology",
+      "relation": "USED_AS",
+      "object": "stylized form of uppercase A",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda particle",
+      "subject_type": "Product",
+      "relation": "IS_A_TYPE_OF",
+      "object": "subatomic particle",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "IS_USED_IN",
+      "object": "axiomatic method of logical deduction",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Lambda",
+      "subject_type": "Technology",
+      "relation": "DENOTES",
+      "object": "de Bruijn–Newman constant",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "de Bruijn–Newman constant",
+      "subject_type": "Technology",
+      "relation": "CONNECTED_WITH",
+      "object": "Riemann's hypothesis",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1746
+}

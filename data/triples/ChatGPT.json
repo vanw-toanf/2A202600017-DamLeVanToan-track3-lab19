@@ -1,0 +1,118 @@
+{
+  "article": "ChatGPT",
+  "triples": [
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "OpenAI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "November 2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "USES",
+      "object": "large language models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "INTEGRATED_WITH",
+      "object": "DALL-E",
+      "object_type": "Product"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "INTEGRATED_WITH",
+      "object": "Whisper",
+      "object_type": "Product"
+    },
+    {
+      "subject": "OpenAI",
+      "subject_type": "Company",
+      "relation": "OPERATES",
+      "object": "ChatGPT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "ADOPTED",
+      "object": "100 million monthly active users",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "REACHED",
+      "object": "900 million weekly active users",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "field of artificial intelligence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "INSTIGATED",
+      "object": "public debate",
+      "object_type": "Event"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "CRITICIZED_FOR",
+      "object": "limitations and potential for unethical use",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "CAN_GENERATE",
+      "object": "hallucinations",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "FACILITATES",
+      "object": "academic dishonesty",
+      "object_type": "Event"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "GENERATES",
+      "object": "misinformation",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "CREATES",
+      "object": "malicious code",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ChatGPT",
+      "subject_type": "Product",
+      "relation": "DRAWN_CONTROVERSY",
+      "object": "use of copyrighted content as training data",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1571
+}

@@ -1,0 +1,132 @@
+{
+  "article": "Google Cloud Platform",
+  "triples": [
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "OFFERED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "PROVIDES",
+      "object": "cloud computing services",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Google Cloud",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Google Cloud",
+      "subject_type": "Organization",
+      "relation": "INCLUDES",
+      "object": "Google Workspace",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google Cloud",
+      "subject_type": "Organization",
+      "relation": "INCLUDES",
+      "object": "enterprise versions of Android",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google Cloud",
+      "subject_type": "Organization",
+      "relation": "INCLUDES",
+      "object": "enterprise versions of ChromeOS",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "App Engine",
+      "object_type": "Product"
+    },
+    {
+      "subject": "App Engine",
+      "subject_type": "Product",
+      "relation": "ANNOUNCED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "App Engine",
+      "subject_type": "Product",
+      "relation": "BECAME_GENERALLY_AVAILABLE_IN",
+      "object": "November 2011",
+      "object_type": "Year"
+    },
+    {
+      "subject": "App Engine",
+      "subject_type": "Product",
+      "relation": "FIRST_CLOUD_COMPUTING_SERVICE_FROM",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "PROVIDES",
+      "object": "infrastructure as a service",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "PROVIDES",
+      "object": "platform as a service",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "PROVIDES",
+      "object": "serverless computing environments",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "RUNS_ON",
+      "object": "Google infrastructure",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "REQUIRES",
+      "object": "credit card or bank account details",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "ADDED",
+      "object": "multiple cloud services",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "REBRANDED_TO",
+      "object": "Google Cloud",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Google Cloud Platform",
+      "subject_type": "Product",
+      "relation": "MAY_CAUSE",
+      "object": "naming confusion",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1671
+}

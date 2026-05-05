@@ -1,0 +1,237 @@
+{
+  "article": "Nida (name)",
+  "triples": [
+    {
+      "subject": "Nida Allam",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1993",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Allam",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "American politician",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Dar",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1987",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Dar",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Pakistani cricketer",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Karasakal",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Turkish weightlifter",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Khan",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Indian women's rights activist",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Khuhro",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Pakistani politician",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Manzoor",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "British television writer and director",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Mumtaz",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1960",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Mumtaz",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Pakistani actress",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Pasha",
+      "subject_type": "Person",
+      "relation": "KNOWN_AS",
+      "object": "Nida Yasir",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Nida Patcharaveerapong",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1984",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Patcharaveerapong",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Thai actress",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "H. Nida Sen",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Turkish ophthalmologist",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Nida Senff",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1920",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Senff",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1995",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Eliz Üstündağ",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1996",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Vasiliauskaitė",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1975",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Waseem",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1982",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Zuhal",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1975",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Fazli",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1938",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Fazli",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2016",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Sinnokrot",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1971",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Tüfekçi",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1929",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Tüfekçi",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "1993",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Eugene Nida",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1914",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Eugene Nida",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2011",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Julian Nida-Rümelin",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1954",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Martine Nida-Rümelin",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1957",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Norman Von Nida",
+      "subject_type": "Person",
+      "relation": "BORN_IN",
+      "object": "1914",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Norman Von Nida",
+      "subject_type": "Person",
+      "relation": "DIED_IN",
+      "object": "2007",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Nida Blanca",
+      "subject_type": "Person",
+      "relation": "KNOWN_AS",
+      "object": "Dorothy Guinto Jones",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Nida Boga",
+      "subject_type": "Person",
+      "relation": "KNOWN_AS",
+      "object": "Leonida T. Boga",
+      "object_type": "Person"
+    }
+  ],
+  "tokens": 2348
+}

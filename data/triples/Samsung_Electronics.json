@@ -1,0 +1,146 @@
+{
+  "article": "Samsung Electronics",
+  "triples": [
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "1969",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Yeongtong District, Suwon, South Korea",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "ACCOUNTING_FOR",
+      "object": "70%",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Apple",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Sony",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "HTC",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "COMPETES_WITH",
+      "object": "Nokia",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "HAS_ASSEMBLY_PLANTS_IN",
+      "object": "76 countries",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "EMPLOYS",
+      "object": "260,000 people",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Samsung Galaxy brand",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Galaxy brand",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Galaxy S series",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Galaxy brand",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Galaxy A series",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Galaxy brand",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Galaxy M series",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Galaxy brand",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Galaxy Fold",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Galaxy brand",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Galaxy Flip",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "HAS_BEEN_LARGEST_VENDOR_OF",
+      "object": "smartphones",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "HAS_BEEN_LARGEST_MANUFACTURER_OF",
+      "object": "televisions",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "IS_PART_OF",
+      "object": "Samsung chaebol",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "MARKET_CAPITALIZATION",
+      "object": "US$1.025 billion",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Samsung Electronics Co., Ltd.",
+      "subject_type": "Company",
+      "relation": "IS_FOURTH_LARGEST",
+      "object": "technology company by revenue",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1864
+}

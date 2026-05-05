@@ -1,0 +1,146 @@
+{
+  "article": "Ashish Vaswani",
+  "triples": [
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Adept AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Adept AI",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "AI agents and tools for software automation",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Essential AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Essential AI",
+      "subject_type": "Company",
+      "relation": "CEO_OF",
+      "object": "Ashish Vaswani",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "Computer Science",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "AFFILIATED_WITH",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "AFFILIATED_WITH",
+      "object": "Information Sciences Institute",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Information Sciences Institute",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "University of Southern California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "2002",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "ENROLLED_AT",
+      "object": "University of Southern California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "EARNED",
+      "object": "PhD in Computer Science",
+      "object_type": "Degree"
+    },
+    {
+      "subject": "David Chiang",
+      "subject_type": "Person",
+      "relation": "SUPERVISED",
+      "object": "Ashish Vaswani",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Ashish Vaswani",
+      "subject_type": "Person",
+      "relation": "CO_AUTHOR_OF",
+      "object": "\"Attention Is All You Need\"",
+      "object_type": "Product"
+    },
+    {
+      "subject": "\"Attention Is All You Need\"",
+      "subject_type": "Product",
+      "relation": "PUBLISHED_IN",
+      "object": "2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "\"Attention Is All You Need\"",
+      "subject_type": "Product",
+      "relation": "INTRODUCED",
+      "object": "Transformer neural network architecture",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer neural network architecture",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "BERT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Transformer neural network architecture",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "ChatGPT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2018",
+      "object_type": "Year"
+    },
+    {
+      "subject": "GPT-2",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2019",
+      "object_type": "Year"
+    },
+    {
+      "subject": "GPT-3",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2019-2020",
+      "object_type": "Year"
+    }
+  ],
+  "tokens": 1708
+}

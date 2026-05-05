@@ -1,0 +1,111 @@
+{
+  "article": "Eleuthera",
+  "triples": [
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "LOCATED_IN",
+      "object": "Commonwealth of the Bahamas",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "PART_OF",
+      "object": "Great Bahama Bank",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "INCORPORATES",
+      "object": "Harbour Island",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "LOCATED_EAST_OF",
+      "object": "Nassau",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_LENGTH",
+      "object": "180 km",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_WIDTH",
+      "object": "1.6 km",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_POPULATION",
+      "object": "11,000",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_ELEVATION",
+      "object": "200 feet",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_AREA",
+      "object": "457.4 square-kilometers",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_COASTLINE",
+      "object": "336 km",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "FACES",
+      "object": "Atlantic Ocean",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "FACES",
+      "object": "Great Bahama Bank",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "KNOWN_AS",
+      "object": "Cigateo",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_TOPOGRAPHY",
+      "object": "wide rolling pink sand beaches",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Eleuthera",
+      "subject_type": "Location",
+      "relation": "HAS_TOPOGRAPHY",
+      "object": "large outcrops of ancient coral reefs",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1687
+}

@@ -1,0 +1,118 @@
+{
+  "article": "Antimicrobial resistance",
+  "triples": [
+    {
+      "subject": "Antimicrobial resistance",
+      "subject_type": "Technology",
+      "relation": "DEFINED_AS",
+      "object": "AMR or AR",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Antimicrobial resistance",
+      "subject_type": "Technology",
+      "relation": "POSES_CHALLENGE_TO",
+      "object": "healthcare worldwide",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "World Health Organization",
+      "subject_type": "Organization",
+      "relation": "CLAIMS",
+      "object": "AMR is one of the top global public health and development threats",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "World Health Organization",
+      "subject_type": "Organization",
+      "relation": "ESTIMATED_DEATHS",
+      "object": "1.27 million global deaths in 2019",
+      "object_type": "Year"
+    },
+    {
+      "subject": "World Health Organization",
+      "subject_type": "Organization",
+      "relation": "CONTRIBUTED_TO",
+      "object": "4.95 million deaths",
+      "object_type": "Year"
+    },
+    {
+      "subject": "AMR microbes",
+      "subject_type": "Technology",
+      "relation": "CAUSES",
+      "object": "nearly 5 million annual deaths",
+      "object_type": "Year"
+    },
+    {
+      "subject": "AMR",
+      "subject_type": "Technology",
+      "relation": "LEADS_TO",
+      "object": "10 million deaths annually by 2050",
+      "object_type": "Year"
+    },
+    {
+      "subject": "COVID-19 pandemic",
+      "subject_type": "Event",
+      "relation": "REDIRECTED",
+      "object": "resources and scientific attention away from AMR",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "antimicrobials",
+      "subject_type": "Product",
+      "relation": "USED_TO_TREAT",
+      "object": "infections in humans, animals, and plants",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "bacteria",
+      "subject_type": "Technology",
+      "relation": "DEVELOPS_RESISTANCE",
+      "object": "antibiotic resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "viruses",
+      "subject_type": "Technology",
+      "relation": "DEVELOPS_RESISTANCE",
+      "object": "antiviral resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "parasites",
+      "subject_type": "Technology",
+      "relation": "DEVELOPS_RESISTANCE",
+      "object": "antiparasitic resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "fungi",
+      "subject_type": "Technology",
+      "relation": "DEVELOPS_RESISTANCE",
+      "object": "antifungal resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "misuse and improper management of antimicrobials",
+      "subject_type": "Technology",
+      "relation": "ARE_DRIVERS_OF",
+      "object": "antimicrobial resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "genetic mutations",
+      "subject_type": "Technology",
+      "relation": "CONTRIBUTE_TO",
+      "object": "antimicrobial resistance",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "resistant genes",
+      "subject_type": "Technology",
+      "relation": "SPREADS",
+      "object": "antimicrobial resistance",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1652
+}

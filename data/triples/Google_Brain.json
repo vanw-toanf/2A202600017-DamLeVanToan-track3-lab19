@@ -1,0 +1,111 @@
+{
+  "article": "Google Brain",
+  "triples": [
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_IN",
+      "object": "2011",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "Google AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "DEVELOPED",
+      "object": "TensorFlow",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "MERGED_WITH",
+      "object": "DeepMind",
+      "object_type": "Company"
+    },
+    {
+      "subject": "DeepMind",
+      "subject_type": "Company",
+      "relation": "FORMED_IN",
+      "object": "April 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Jeff Dean",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Greg Corrado",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Geoffrey Hinton",
+      "subject_type": "Person",
+      "relation": "HIRED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "DNNResearch Inc.",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "Google X",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "New York Times",
+      "subject_type": "Organization",
+      "relation": "REPORTED_ON",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "National Public Radio",
+      "subject_type": "Organization",
+      "relation": "COVERED",
+      "object": "Google Brain",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "COMPETES_WITH",
+      "object": "AI research teams",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "AIMED_TO_CREATE",
+      "object": "research opportunities in machine learning and natural language processing",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google Brain",
+      "subject_type": "Organization",
+      "relation": "COMBINED_WITH",
+      "object": "information systems and large-scale computing resources",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1491
+}

@@ -1,0 +1,132 @@
+{
+  "article": "Oracle Corporation",
+  "triples": [
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Bob Miner",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Ed Oates",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Larry Ellison",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "1977",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Austin, Texas",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Santa Clara, California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "RANKED",
+      "object": "66th on the Forbes Global 2000",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "SELLS",
+      "object": "Oracle Database",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "SELLS",
+      "object": "enterprise applications",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Oracle Corporation",
+      "subject_type": "Company",
+      "relation": "SELLS",
+      "object": "cloud infrastructure and hardware",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Oracle Database",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "enterprise software products",
+      "object_type": "Product"
+    },
+    {
+      "subject": "enterprise software products",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "enterprise resource planning (ERP)",
+      "object_type": "Product"
+    },
+    {
+      "subject": "enterprise software products",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "human capital management (HCM)",
+      "object_type": "Product"
+    },
+    {
+      "subject": "enterprise software products",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "Customer Experience (CX)",
+      "object_type": "Product"
+    },
+    {
+      "subject": "enterprise software products",
+      "subject_type": "Product",
+      "relation": "INCLUDES",
+      "object": "supply chain management (SCM)",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Software Development Laboratories",
+      "subject_type": "Company",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Bob Miner",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Software Development Laboratories",
+      "subject_type": "Company",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Ed Oates",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Software Development Laboratories",
+      "subject_type": "Company",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Larry Ellison",
+      "object_type": "Person"
+    }
+  ],
+  "tokens": 1676
+}

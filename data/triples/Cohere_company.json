@@ -1,0 +1,146 @@
+{
+  "article": "Cohere",
+  "triples": [
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Aidan Gomez",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Ivan Zhang",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Nick Frosst",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2019",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Toronto",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Montreal",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "New York City",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Francisco",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "London",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Paris",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Seoul",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Aleph Alpha",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Aleph Alpha",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Germany",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Nick Frosst",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Aidan Gomez",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Ivan Zhang",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "CEO_OF",
+      "object": "Aidan Gomez",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Google Cloud",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Google Cloud",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Cohere's platform",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Cohere Labs",
+      "subject_type": "Organization",
+      "relation": "FOUNDED_BY",
+      "object": "Sara Hooker",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Cohere Labs",
+      "subject_type": "Organization",
+      "relation": "LEAD_BY",
+      "object": "Marzieh Fadaee",
+      "object_type": "Person"
+    }
+  ],
+  "tokens": 1768
+}

@@ -1,0 +1,146 @@
+{
+  "article": "Artificial general intelligence",
+  "triples": [
+    {
+      "subject": "Artificial general intelligence",
+      "subject_type": "Technology",
+      "relation": "IS_A",
+      "object": "hypothetical type of artificial intelligence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Artificial general intelligence",
+      "subject_type": "Technology",
+      "relation": "MATCHES_OR_SURPASSES",
+      "object": "human capabilities",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Artificial superintelligence",
+      "subject_type": "Technology",
+      "relation": "OUTPERFORMS",
+      "object": "best human abilities",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Artificial narrow intelligence",
+      "subject_type": "Technology",
+      "relation": "CONFINED_TO",
+      "object": "well-defined tasks",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AGI system",
+      "subject_type": "Technology",
+      "relation": "CAN_GENERALISE",
+      "object": "knowledge",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AGI system",
+      "subject_type": "Technology",
+      "relation": "CAN_TRANSFER",
+      "object": "skills between domains",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AGI system",
+      "subject_type": "Technology",
+      "relation": "CAN_SOLVE",
+      "object": "novel problems",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "OpenAI",
+      "subject_type": "Company",
+      "relation": "CREATING",
+      "object": "AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Google",
+      "subject_type": "Company",
+      "relation": "CREATING",
+      "object": "AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "xAI",
+      "subject_type": "Company",
+      "relation": "CREATING",
+      "object": "AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Meta",
+      "subject_type": "Company",
+      "relation": "CREATING",
+      "object": "AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "2020",
+      "subject_type": "Year",
+      "relation": "IDENTIFIED",
+      "object": "72 active AGI research and development projects",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "72 active AGI research and development projects",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "37 countries",
+      "object_type": "Location"
+    },
+    {
+      "subject": "AGI",
+      "subject_type": "Technology",
+      "relation": "IS_A",
+      "object": "common topic in science fiction",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AGI",
+      "subject_type": "Technology",
+      "relation": "IS_A",
+      "object": "common topic in futures studies",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "AI experts",
+      "subject_type": "Person",
+      "relation": "STATED",
+      "object": "mitigating the risk of human extinction posed by AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Mark Gubrud",
+      "subject_type": "Person",
+      "relation": "USED_TERM",
+      "object": "artificial general intelligence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Marcus Hutter",
+      "subject_type": "Person",
+      "relation": "PROPOSED",
+      "object": "mathematical formalism of AGI named AIXI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Shane Legg",
+      "subject_type": "Person",
+      "relation": "RE-INTRODUCED_AND_POPULARIZED",
+      "object": "term AGI",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ben Goertzel",
+      "subject_type": "Person",
+      "relation": "RE-INTRODUCED_AND_POPULARIZED",
+      "object": "term AGI",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1833
+}

@@ -1,0 +1,132 @@
+{
+  "article": "Ilya Sutskever",
+  "triples": [
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "OpenAI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Safe Superintelligence Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "OpenAI",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "United States",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "OpenAI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "PART_OF",
+      "object": "OpenAI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "Machine Learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "Deep Learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "AlexNet",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "GPT models",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "CLIP",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "DALL-E",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "AlphaGo",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "NeurIPS Test of Time Award",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "National Academy of Sciences Award",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "2024",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "IMMIGRATED_TO",
+      "object": "Israel",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "ATTENDED",
+      "object": "Open University of Israel",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Ilya Sutskever",
+      "subject_type": "Person",
+      "relation": "ATTENDED",
+      "object": "University of Toronto",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1867
+}

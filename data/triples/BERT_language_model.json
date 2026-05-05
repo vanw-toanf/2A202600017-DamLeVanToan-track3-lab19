@@ -1,0 +1,132 @@
+{
+  "article": "BERT (language model)",
+  "triples": [
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "INTRODUCED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "October 2018",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "IMPROVED_ON",
+      "object": "ELMo",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "SPAWNED",
+      "object": "BERTology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "TRAINED_ON",
+      "object": "Toronto BookCorpus",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Bidirectional Encoder Representations from Transformers",
+      "subject_type": "Product",
+      "relation": "TRAINED_ON",
+      "object": "English Wikipedia",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERTBASE",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Bidirectional Encoder Representations from Transformers",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERTLARGE",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Bidirectional Encoder Representations from Transformers",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERTTINY",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Bidirectional Encoder Representations from Transformers",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "Natural Language Processing",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "USED_FOR",
+      "object": "Coreference Resolution",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "USED_FOR",
+      "object": "Polysemy Resolution",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "COMPETES_WITH",
+      "object": "GPT-2",
+      "object_type": "Product"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "TRAINED_BY",
+      "object": "Masked Token Prediction",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "TRAINED_BY",
+      "object": "Next Sentence Prediction",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "RELEASED_ON",
+      "object": "GitHub",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "IMPROVED_ON",
+      "object": "Large Language Models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "BERT",
+      "subject_type": "Product",
+      "relation": "USED_IN",
+      "object": "NLP Experiments",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1770
+}

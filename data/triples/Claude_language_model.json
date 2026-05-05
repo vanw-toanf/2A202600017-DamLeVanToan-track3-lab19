@@ -1,0 +1,125 @@
+{
+  "article": "Claude (language model)",
+  "triples": [
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Claude 3",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Claude Mythos",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "2026",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Claude Mythos",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "handful of companies",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "USED_FOR",
+      "object": "software development",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Claude Code",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Claude",
+      "object_type": "Product"
+    },
+    {
+      "subject": "constitutional AI",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED_BY",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Claude Shannon",
+      "subject_type": "Person",
+      "relation": "TRIBUTE_TO",
+      "object": "Claude",
+      "object_type": "Product"
+    },
+    {
+      "subject": "US federal agencies",
+      "subject_type": "Organization",
+      "relation": "PHASING_OUT",
+      "object": "Claude",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Department of Defense",
+      "subject_type": "Organization",
+      "relation": "DESIGNATED",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Department of Defense",
+      "subject_type": "Organization",
+      "relation": "ISSUED_INJUNCTION_ON",
+      "object": "March 26, 2026",
+      "object_type": "Year"
+    },
+    {
+      "subject": "federal judge",
+      "subject_type": "Person",
+      "relation": "ISSUED",
+      "object": "temporary injunction",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "iFixit",
+      "subject_type": "Company",
+      "relation": "CRITICIZED",
+      "object": "ClaudeBot",
+      "object_type": "Product"
+    },
+    {
+      "subject": "ClaudeBot",
+      "subject_type": "Product",
+      "relation": "SEARCHES_FOR",
+      "object": "content",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ClaudeBot",
+      "subject_type": "Product",
+      "relation": "RESPECTS",
+      "object": "robots.txt",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "ClaudeBot",
+      "subject_type": "Product",
+      "relation": "PLACED_LOAD_ON",
+      "object": "iFixit",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1646
+}

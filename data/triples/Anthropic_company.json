@@ -1,0 +1,139 @@
+{
+  "article": "Anthropic",
+  "triples": [
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Daniela Amodei",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Dario Amodei",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "2021",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Francisco",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Claude",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Daniela Amodei",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Dario Amodei",
+      "subject_type": "Person",
+      "relation": "PRESIDENT_OF",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "DEVELOPED_BY",
+      "object": "Anthropic",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Claude",
+      "subject_type": "Product",
+      "relation": "RELEASED_IN",
+      "object": "March 2023",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "HIRED",
+      "object": "Jan Leike",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "HIRED",
+      "object": "John Schulman",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "ANNOUNCED",
+      "object": "Claude 4",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "web search API",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "STOP_SELLING_TO",
+      "object": "Chinese entities",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "STOP_SELLING_TO",
+      "object": "Russian entities",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "STOP_SELLING_TO",
+      "object": "Iranian entities",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Anthropic",
+      "subject_type": "Company",
+      "relation": "STOP_SELLING_TO",
+      "object": "North Korean entities",
+      "object_type": "Organization"
+    }
+  ],
+  "tokens": 1669
+}

@@ -1,0 +1,111 @@
+{
+  "article": "Transformer (deep learning)",
+  "triples": [
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "DEVELOPED",
+      "object": "multi-head attention mechanism",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "natural language processing",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "computer vision",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "reinforcement learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "audio",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "multimodal learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "robotics",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "USED_IN",
+      "object": "playing chess",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "FOUNDED_IN",
+      "object": "2017",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Attention Is All You Need",
+      "subject_type": "Product",
+      "relation": "PROPOSED_BY",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "COMPETES_WITH",
+      "object": "long short-term memory",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "PART_OF",
+      "object": "large language models",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "LEAD_TO",
+      "object": "generative pre-trained transformers",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "LEAD_TO",
+      "object": "BERT",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Transformer",
+      "subject_type": "Technology",
+      "relation": "IMPROVED_BY",
+      "object": "previous architectures",
+      "object_type": "Technology"
+    }
+  ],
+  "tokens": 1476
+}

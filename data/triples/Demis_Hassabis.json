@@ -1,0 +1,139 @@
+{
+  "article": "Demis Hassabis",
+  "triples": [
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Google DeepMind",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "FOUNDED_BY",
+      "object": "Isomorphic Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Google DeepMind",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Isomorphic Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "Nobel Prize in Chemistry",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "Breakthrough Prize",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "Canada Gairdner International Award",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "AWARDED",
+      "object": "Lasker Award",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "APPOINTED",
+      "object": "CBE",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "KNIGHTED",
+      "object": "2024",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "LISTED_IN",
+      "object": "Time 100 most influential people",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "PART_OF",
+      "object": "Architects of AI",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "CHOSEN_AS",
+      "object": "Time's 2025 Person of the Year",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "North London",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "EDUCATED_AT",
+      "object": "Queen Elizabeth's School, Barnet",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "EDUCATED_AT",
+      "object": "Christ's College",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "INTERESTED_IN",
+      "object": "technology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "FIRST_COMPUTER",
+      "object": "ZX Spectrum 48K",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Demis Hassabis",
+      "subject_type": "Person",
+      "relation": "FIRST_AI_PROGRAM",
+      "object": "Commodore Amiga",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1860
+}

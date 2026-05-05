@@ -1,0 +1,153 @@
+{
+  "article": "Sanjay Ghemawat",
+  "triples": [
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "FOUNDED_IN",
+      "object": "1966",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "LOCATED_IN",
+      "object": "West Lafayette, Indiana",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "PART_OF",
+      "object": "Systems Infrastructure Group",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Jeff Dean",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "MapReduce",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "Google File System",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "Bigtable",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "DEVELOPED",
+      "object": "Spanner",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "ELECTED_IN",
+      "object": "2009",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "MEMBER_OF",
+      "object": "National Academy of Engineering",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "Cornell University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "STUDIED_AT",
+      "object": "Massachusetts Institute of Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "OBTAINED_DEGREE_FROM",
+      "object": "Massachusetts Institute of Technology",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "ADVISED_BY",
+      "object": "Barbara Liskov",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "ADVISED_BY",
+      "object": "Frans Kaashoek",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "WORKED_AT",
+      "object": "DEC Systems Research Center",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Jeff Dean",
+      "subject_type": "Person",
+      "relation": "WORKED_AT",
+      "object": "DEC Systems Research Center",
+      "object_type": "Company"
+    },
+    {
+      "subject": "DEC Systems Research Center",
+      "subject_type": "Company",
+      "relation": "ACQUIRED",
+      "object": "Compaq",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Jeff Dean",
+      "subject_type": "Person",
+      "relation": "JOINED",
+      "object": "Google",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Sanjay Ghemawat",
+      "subject_type": "Person",
+      "relation": "JOINED",
+      "object": "Google",
+      "object_type": "Company"
+    }
+  ],
+  "tokens": 1846
+}

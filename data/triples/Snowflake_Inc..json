@@ -1,0 +1,146 @@
+{
+  "article": "Snowflake Inc.",
+  "triples": [
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_IN",
+      "object": "July 2012",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Benoît Dageville",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Thierry Cruanes",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "FOUNDED_BY",
+      "object": "Marcin Żukowski",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Benoît Dageville",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Oracle Corporation",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Thierry Cruanes",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Oracle Corporation",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Marcin Żukowski",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Vectorwise",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Mike Speiser",
+      "subject_type": "Person",
+      "relation": "INVESTED_IN",
+      "object": "Snowflake Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Sutter Hill Ventures",
+      "subject_type": "Organization",
+      "relation": "PROVIDED_FUNDING_TO",
+      "object": "Snowflake Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "CEO_OF",
+      "object": "Mike Speiser",
+      "object_type": "Person"
+    },
+    {
+      "subject": "Bob Muglia",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Snowflake Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "Menlo Park",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "LOCATED_IN",
+      "object": "San Mateo, California",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "Data Cloud",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Amazon Web Services",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Microsoft Azure",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Google Cloud Platform",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Frank Slootman",
+      "subject_type": "Person",
+      "relation": "CEO_OF",
+      "object": "Snowflake Inc.",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Snowflake Inc.",
+      "subject_type": "Company",
+      "relation": "LAUNCHED",
+      "object": "Snowflake Data Exchange",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Knoema",
+      "subject_type": "Company",
+      "relation": "PART_OF",
+      "object": "Snowflake Data Marketplace",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1753
+}

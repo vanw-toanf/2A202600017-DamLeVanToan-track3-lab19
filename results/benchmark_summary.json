@@ -1,0 +1,15 @@
+{
+  "total_questions": 10,
+  "flat_rag_wins": 8,
+  "graph_rag_wins": 2,
+  "ties": 0,
+  "avg_latency_flat": 3.154,
+  "avg_latency_graph": 2.391,
+  "total_tokens_flat": 28626,
+  "total_tokens_graph": 2432,
+  "avg_score_flat": 23.7,
+  "avg_score_graph": 10.5,
+  "estimated_cost_flat_usd": 0.004294,
+  "estimated_cost_graph_usd": 0.000365,
+  "overall_winner": "Flat RAG"
+}

@@ -1,0 +1,167 @@
+{
+  "article": "Fei-Fei Li",
+  "triples": [
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "FOUNDED",
+      "object": "ImageNet",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Stanford University",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "artificial intelligence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "machine learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "deep learning",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "computer vision",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RESEARCH_AREA",
+      "object": "cognitive neuroscience",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "CO_DIRECTOR_OF",
+      "object": "Stanford Institute for Human-Centered Artificial Intelligence",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "CO_DIRECTOR_OF",
+      "object": "Stanford Vision and Learning Lab",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "SERVED_AS",
+      "object": "Chief Scientist of AI/ML at Google Cloud",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "DIRECTOR_OF",
+      "object": "Stanford Artificial Intelligence Laboratory",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "FOUNDED",
+      "object": "AI4ALL",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "AI4ALL",
+      "subject_type": "Organization",
+      "relation": "PART_OF",
+      "object": "nonprofit organization",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RECEIVED_AWARD",
+      "object": "Intel Lifetime Achievements Innovation Award",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "ELECTED_MEMBER_OF",
+      "object": "National Academy of Engineering",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "ELECTED_MEMBER_OF",
+      "object": "National Academy of Medicine",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "ELECTED_MEMBER_OF",
+      "object": "American Academy of Arts and Sciences",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "NAMED",
+      "object": "Time 100 AI Most Influential People",
+      "object_type": "Event"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "APPOINTED_TO",
+      "object": "United Nations Scientific Advisory Board",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "RAISED",
+      "object": "$230 million",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Fei-Fei Li",
+      "subject_type": "Person",
+      "relation": "FOUNDED",
+      "object": "World Labs",
+      "object_type": "Company"
+    },
+    {
+      "subject": "World Labs",
+      "subject_type": "Company",
+      "relation": "DEVELOPED",
+      "object": "spatial intelligence AI technology",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "World Labs",
+      "subject_type": "Company",
+      "relation": "RAISED",
+      "object": "$1 Billion",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 2104
+}

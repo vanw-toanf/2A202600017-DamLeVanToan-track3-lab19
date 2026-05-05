@@ -1,0 +1,139 @@
+{
+  "article": "Stable Diffusion",
+  "triples": [
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "DEVELOPED",
+      "object": "Stability AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "FOUNDED_IN",
+      "object": "2022",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "LOCATED_IN",
+      "object": "Germany",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "PART_OF",
+      "object": "AI boom",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "USED_FOR",
+      "object": "image generation",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "COMPETES_WITH",
+      "object": "DALL-E",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Stable Diffusion",
+      "subject_type": "Product",
+      "relation": "COMPETES_WITH",
+      "object": "Midjourney",
+      "object_type": "Product"
+    },
+    {
+      "subject": "CompVis Group",
+      "subject_type": "Organization",
+      "relation": "LOCATED_IN",
+      "object": "LMU Munich",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Runway",
+      "subject_type": "Company",
+      "relation": "PARTNERED_WITH",
+      "object": "Stability AI",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Patrick Esser",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "Runway",
+      "object_type": "Company"
+    },
+    {
+      "subject": "Robin Rombach",
+      "subject_type": "Person",
+      "relation": "WORKS_AT",
+      "object": "CompVis",
+      "object_type": "Organization"
+    },
+    {
+      "subject": "EleutherAI",
+      "subject_type": "Organization",
+      "relation": "SUPPORTED",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "LAION",
+      "subject_type": "Organization",
+      "relation": "SUPPORTED",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "LMU Munich",
+      "subject_type": "Location",
+      "relation": "LOCATED_IN",
+      "object": "Germany",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Heidelberg University",
+      "subject_type": "Location",
+      "relation": "LOCATED_IN",
+      "object": "Germany",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Robin Rombach",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Andreas Blattmann",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Patrick Esser",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Dominik Lorenz",
+      "subject_type": "Person",
+      "relation": "CO_FOUNDED_BY",
+      "object": "Stable Diffusion",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1732
+}

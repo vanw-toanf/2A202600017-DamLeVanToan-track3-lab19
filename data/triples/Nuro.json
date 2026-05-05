@@ -1,0 +1,111 @@
+{
+  "article": "Ero guro",
+  "triples": [
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "DEFINED_AS",
+      "object": "artistic genre",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "FOCUSES_ON",
+      "object": "eroticism",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "FOCUSES_ON",
+      "object": "sexual corruption",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "FOCUSES_ON",
+      "object": "decadence",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "IS_A",
+      "object": "wasei-eigo",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro",
+      "subject_type": "Product",
+      "relation": "MISTAKEN_FOR",
+      "object": "gore",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Ero guro nansensu",
+      "subject_type": "Product",
+      "relation": "MANIFESTED_IN",
+      "object": "popular culture of Taishō Tokyo",
+      "object_type": "Location"
+    },
+    {
+      "subject": "Ero guro nansensu",
+      "subject_type": "Product",
+      "relation": "CHARACTERIZED_AS",
+      "object": "prewar, bourgeois cultural phenomenon",
+      "object_type": "Technology"
+    },
+    {
+      "subject": "Ero guro nansensu",
+      "subject_type": "Product",
+      "relation": "FIRST_APPEARED_IN",
+      "object": "1920s and 1930s Japanese literature",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Sada Abe Incident",
+      "subject_type": "Event",
+      "relation": "OCCURRED_IN",
+      "object": "1936",
+      "object_type": "Year"
+    },
+    {
+      "subject": "Sada Abe Incident",
+      "subject_type": "Event",
+      "relation": "STRIKES_A_CHORD_WITH",
+      "object": "ero guro nansensu movement",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Toshio Saeki",
+      "subject_type": "Person",
+      "relation": "WAS_AN_INFLUENTIAL",
+      "object": "ero guro illustrator",
+      "object_type": "Product"
+    },
+    {
+      "subject": "Cali Gari",
+      "subject_type": "Company",
+      "relation": "HAS_THEME_RELATING_TO",
+      "object": "ero guro",
+      "object_type": "Product"
+    },
+    {
+      "subject": "World War II",
+      "subject_type": "Event",
+      "relation": "SUPPRESSED",
+      "object": "similar activities and movements",
+      "object_type": "Product"
+    },
+    {
+      "subject": "postwar period",
+      "subject_type": "Year",
+      "relation": "RE-EMERGED_IN",
+      "object": "ero guro",
+      "object_type": "Product"
+    }
+  ],
+  "tokens": 1661
+}
